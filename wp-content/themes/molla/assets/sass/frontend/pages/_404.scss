@@ -1,0 +1,18 @@
+.error-page-content {
+    padding-top: 12rem;
+    padding-bottom: 32rem;
+    background-image: url("../../images/error-bg.jpg");
+
+    .btn {
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+    }
+
+    .heading-title {
+        font-size: 5rem;
+    }
+    .heading .heading-title,
+    .heading .heading-subtitle {
+        margin-bottom: 1rem;
+    }
+}

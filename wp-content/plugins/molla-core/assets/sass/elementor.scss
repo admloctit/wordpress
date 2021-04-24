@@ -1,0 +1,304 @@
+/* elementor styles */
+
+#elementor-panel-categories {
+    display: flex;
+    flex-direction: column;
+
+    #elementor-panel-category-basic {
+        order: -3;
+    }
+    #elementor-panel-category-molla-elements {
+        order: -1;
+    }
+    #elementor-panel-category-molla-single-layout,
+    #elementor-panel-category-molla-header {
+        order: -2;
+    }
+}
+
+.elementor-radio-image-field {
+	display: block;
+}
+
+.elementor-label-inline>.elementor-control-content>.elementor-radio-image-field>.elementor-control-input-wrapper {
+	display: block;
+	margin: 0;
+	width: auto;
+}
+
+.elementor-choices.elementor-radio-image-choices {
+	margin: 1rem 0 0 0;
+	height: auto;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.elementor-radio-image-choices .elementor-radio-image-choice {
+
+	display: flex;
+	padding: 3px;
+	label {
+		display: flex;
+		align-items: center;
+		padding: 7px;
+		border: 1px solid #d5dadf;
+		border-radius: 3px;
+		width: 100%;
+	}
+
+	&.w-1 {
+		flex: 0 0 33.33%;
+		max-width: 33.33%;
+	}
+	&.w-2 {
+		flex: 0 0 66.66%;
+		max-width: 66.66%;
+	}
+
+	img {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+.elementor-control-type-select2 .elementor-control-input-wrapper {
+	flex: 1;
+	max-width: 135px;
+}
+input[type="checkbox"] {
+	position: relative;
+	top: 2px;
+	margin-right: 8px;
+}
+textarea {
+	tab-size: 4;
+}
+#elementor-panel-categories {
+	display: flex;
+	flex-direction: column;
+}
+
+#elementor-panel-categories > div:first-child,
+#elementor-panel-category-single-layout,
+#elementor-panel-category-molla-elements {
+	order: -5;
+}
+
+.eicon-vertical-divider {
+    transform: rotate(90deg);
+}
+
+// Conditional popup
+.molla-builder-conditional-modal {
+	.dialog-lightbox-message {
+		padding-top: 40px;
+		padding-bottom: 80px;
+		img {
+			margin-top: 50px;
+		}
+	}
+	.dialog-content {
+		height: auto;
+    }
+	.dialog-buttons-wrapper {
+		display: flex;
+	}
+	.elementor-button-success:not([disabled]):active {
+		background-color: #39b54a;
+	}
+
+	&, input, select {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	}
+	
+	.condition-wrap {
+        box-shadow: 0 2px 12px rgba(0,0,0,.08);
+        background-color: #fff;
+	}
+
+    .conditions {
+        max-width: 720px;
+        margin: 3rem auto 2rem;
+    }
+
+    .condition {
+        display: flex;
+        align-items: center;
+        margin-top: 1rem;
+        margin-left: 42px;
+        color: #6d7882;
+
+        optgroup {
+            font-size: 13px;
+            font-weight: 600;
+        }
+
+        select, .ids-select-toggle {
+			display: flex;
+            -webkit-appearance: none;
+            height: 46px;
+            padding: 0 35px 0 15px;
+            line-height: 46px;
+			border: none;
+            border-radius: 3px;
+            font-size: 14px;
+            color: #6d7882;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            width: 100%;
+        }
+
+        select {
+            position: relative;
+            z-index: 1;
+        }
+
+        .ids-select-toggle {
+			background: #fff;
+        }
+
+        .remove_condition, .clone_condition {
+            margin-left: 10px;
+            font-size: 16px;
+            color: #a4afb7;
+
+            &:hover {
+                color: #6d7882;
+            }
+        }
+
+        input {
+            border: none;
+        }
+    }
+
+    .condition-wrap {
+        position: relative;
+        flex: 1;
+        margin-right: 5px;
+        min-width: 20%;
+    }
+
+    .ids-select-toggle {
+        position: relative;
+        display: block;
+    }
+
+    .condition-wrap::after,
+    .ids-select-toggle::after {
+        content: '\f110';
+        font-family: 'molla';
+        position: absolute;
+        top: 50%;
+        right: 15px;
+        transform: translateY(-50%);
+        font-size: 12px;
+        font-weight: 900;
+    }
+
+    .condition-ids::after,
+    .condition-input-wrap::after {
+        content: none;
+    }
+
+    .condition-input-wrap {
+        flex: none;
+        min-width: auto;
+    }
+
+    .condition-input-wrap {
+
+        input {
+            height: 46px;
+            background: #fff;
+            padding: 15px;
+            text-align: center;
+
+            &::-webkit-outer-spin-button,
+            &::-webkit-inner-spin-button {
+                -webkit-appearance: none;
+            }
+
+            &::placeholder {
+                color: inherit;
+            }
+        }
+    }
+
+    .condition-sidebar-pos,
+    .condition-sidebar-width {
+        max-width: 100px;
+        width: 100px;
+        min-width: 0;
+    }
+
+    .ids-select {
+        .dropdown-box {
+            position: absolute;
+            left: 0;
+            top: 100%;
+            width: 100%;
+            background: #fff;
+            padding: 10px 0;
+            border: 1px solid #e1e1e1;
+            display: none;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            z-index: 1;
+
+            &.show {
+                display: block;
+            }
+        }
+
+        .form-control {
+            height: 30px;
+            margin: 0 10px;
+            min-width: 0;
+            width: calc(100% - 20px);
+        }
+    }
+
+    .ids-select-toggle {
+        text-align: left;
+        line-height: 46px;
+    }
+
+    mark {
+        background: transparent;
+        color: inherit;
+        max-width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .btn {
+        transition: color .4s, background .4s;
+        outline: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+
+    .live-search-list {
+        text-align: left;
+        font-size: 14px;
+        line-height: 1.2;
+
+        .autocomplete-suggestions {
+            margin-top: 5px;
+        }
+
+        .autocomplete-suggestion {
+            padding: 10px;
+        }
+
+        .autocomplete-selected {
+            background: #26b;
+            color: #fff;
+        }
+    }
+}
+#molla-add-condition {
+	font-size: 14px;
+	padding: 12px 26px;
+	margin-top: 50px;
+}

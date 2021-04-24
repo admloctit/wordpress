@@ -1,0 +1,5836 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Molla Core 1.0\n"
+"POT-Creation-Date: 2021-02-05 12:59-0800\n"
+"PO-Revision-Date: 2017-10-09 17:25+0800\n"
+"Last-Translator: molla <molla@example.com>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/gutenberg-blocks.js:49
+msgid "Carousel Options"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:53 assets/js/gutenberg-blocks.js:982
+#: assets/js/gutenberg-blocks.js:1850 assets/js/gutenberg-blocks.js:2566
+#: elementor/elements/column.php:493 elementor/elements/section.php:424
+#: elementor/widgets/blog.php:243 elementor/widgets/custom-product/image.php:73
+#: elementor/widgets/custom-product/linked_products.php:207
+#: elementor/widgets/product.php:356 elementor/widgets/product_category.php:309
+#: meta_boxes/locations/category.php:17
+msgid "Columns"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:60 elementor/elements/column.php:533
+#: elementor/elements/section.php:464 elementor/widgets/blog.php:1098
+#: elementor/widgets/image_carousel.php:99 elementor/widgets/product_brand.php:151
+#: elementor/widgets/product_category.php:1195
+#: elementor/widgets/product_category.php:1467
+msgid "Spacing"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:67 assets/js/gutenberg-blocks.js:993
+#: assets/js/gutenberg-blocks.js:1856 assets/js/gutenberg-blocks.js:2583
+#: elementor/elements/column.php:554 elementor/elements/section.php:486
+#: elementor/widgets/blog.php:276
+#: elementor/widgets/custom-product/linked_products.php:240
+#: elementor/widgets/image_carousel.php:199 elementor/widgets/product.php:405
+#: elementor/widgets/product_brand.php:244 elementor/widgets/product_category.php:342
+msgid "Nav & Dot Position"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:69 assets/js/gutenberg-blocks.js:995
+#: assets/js/gutenberg-blocks.js:1858 assets/js/gutenberg-blocks.js:2585
+#: elementor/elements/column.php:558 elementor/elements/section.php:490
+#: elementor/widgets/blog.php:280 elementor/widgets/count_down.php:150
+#: elementor/widgets/custom-product/linked_products.php:244
+#: elementor/widgets/image_carousel.php:203 elementor/widgets/product.php:409
+#: elementor/widgets/product_brand.php:248 elementor/widgets/product_category.php:346
+msgid "Inner"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:69 assets/js/gutenberg-blocks.js:995
+#: assets/js/gutenberg-blocks.js:1858 assets/js/gutenberg-blocks.js:2585
+#: elementor/elements/column.php:559 elementor/elements/section.php:491
+#: elementor/widgets/blog.php:281 elementor/widgets/count_down.php:151
+#: elementor/widgets/custom-product/linked_products.php:245
+#: elementor/widgets/image_carousel.php:204 elementor/widgets/product.php:410
+#: elementor/widgets/product_brand.php:249 elementor/widgets/product_category.php:347
+msgid "Outer"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:73 assets/js/gutenberg-blocks.js:999
+#: assets/js/gutenberg-blocks.js:1862 assets/js/gutenberg-blocks.js:2589
+#: elementor/elements/column.php:571 elementor/elements/section.php:503
+#: elementor/widgets/blog.php:293
+#: elementor/widgets/custom-product/linked_products.php:257
+#: elementor/widgets/image_carousel.php:213 elementor/widgets/product.php:422
+#: elementor/widgets/product_brand.php:258 elementor/widgets/product_category.php:359
+msgid "Nav Type"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:75 assets/js/gutenberg-blocks.js:1001
+#: assets/js/gutenberg-blocks.js:1864 assets/js/gutenberg-blocks.js:2591
+#: assets/js/gutenberg-blocks.js:2917 elementor/elements/column.php:575
+#: elementor/elements/section.php:507 elementor/widgets/blog.php:297
+#: elementor/widgets/custom-product/linked_products.php:261
+#: elementor/widgets/image_carousel.php:217 elementor/widgets/product.php:426
+#: elementor/widgets/product_brand.php:262 elementor/widgets/product_category.php:363
+msgid "Type 1"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:75 assets/js/gutenberg-blocks.js:1001
+#: assets/js/gutenberg-blocks.js:1864 assets/js/gutenberg-blocks.js:2591
+#: assets/js/gutenberg-blocks.js:2917 elementor/elements/column.php:576
+#: elementor/elements/section.php:508 elementor/widgets/blog.php:298
+#: elementor/widgets/custom-product/linked_products.php:262
+#: elementor/widgets/image_carousel.php:218 elementor/widgets/product.php:427
+#: elementor/widgets/product_brand.php:263 elementor/widgets/product_category.php:364
+msgid "Type 2"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:79 elementor/elements/column.php:588
+#: elementor/elements/section.php:520 elementor/widgets/image_carousel.php:227
+#: elementor/widgets/product_brand.php:272
+msgid "Enable Nav"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:84 elementor/elements/column.php:613
+#: elementor/elements/section.php:544 elementor/widgets/image_carousel.php:245
+#: elementor/widgets/product_brand.php:290
+msgid "Enable Dots"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:89 elementor/elements/column.php:625
+#: elementor/elements/section.php:556 elementor/widgets/blog.php:344
+#: elementor/widgets/image_carousel.php:254 elementor/widgets/product.php:473
+#: elementor/widgets/product_brand.php:299 elementor/widgets/product_category.php:409
+msgid "Enable Loop"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:232
+msgid "Banner Options"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:236 assets/js/gutenberg-blocks.js:4527
+msgid "Background Image"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:244 assets/js/gutenberg-blocks.js:4535
+msgid "Banner Image"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:252 assets/js/gutenberg-blocks.js:4543
+msgid "Remove image"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:259 elementor/elements/section.php:672
+#: elementor/widgets/banner.php:740
+msgid "Use image as background style"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:264 elementor/elements/section.php:780
+#: elementor/elements/section.php:1542
+msgid "Background Parallax"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:269 elementor/widgets/banner.php:956
+msgid "Parallax Speed"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:276
+msgid "Image min-height(px)"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:282
+msgid "Width(%)"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:289 assets/js/gutenberg-blocks.js:1900
+msgid "Content Position X(%)"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:296 assets/js/gutenberg-blocks.js:1907
+msgid "Content Position Y(%)"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:303 assets/js/gutenberg-blocks.js:1914
+#: elementor/widgets/custom-product/linked_products.php:381
+msgid "Origin X Pos"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:305 assets/js/gutenberg-blocks.js:909
+#: assets/js/gutenberg-blocks.js:1050 assets/js/gutenberg-blocks.js:1760
+#: assets/js/gutenberg-blocks.js:1891 assets/js/gutenberg-blocks.js:1916
+#: assets/js/gutenberg-blocks.js:2499 assets/js/gutenberg-blocks.js:2579
+#: assets/js/gutenberg-blocks.js:2618 assets/js/gutenberg-blocks.js:2859
+#: assets/js/gutenberg-blocks.js:2911 assets/js/gutenberg-blocks.js:3590
+#: assets/js/gutenberg-blocks.js:4077 elementor/conditional/init.php:64
+#: elementor/conditional/init.php:238 elementor/elements/column.php:232
+#: elementor/elements/column.php:242 elementor/elements/section.php:877
+#: elementor/elements/section.php:1066 elementor/init.php:472
+#: elementor/widgets/banner.php:149 elementor/widgets/banner.php:1036
+#: elementor/widgets/banner.php:1085 elementor/widgets/banner.php:1092
+#: elementor/widgets/blog.php:90 elementor/widgets/blog.php:481
+#: elementor/widgets/button.php:71 elementor/widgets/count_down.php:65
+#: elementor/widgets/count_to.php:109 elementor/widgets/custom-header/cart.php:165
+#: elementor/widgets/custom-header/login_popup.php:159
+#: elementor/widgets/custom-header/wishlist.php:139
+#: elementor/widgets/custom-product/cart_form.php:123
+#: elementor/widgets/custom-product/countdown.php:87
+#: elementor/widgets/custom-product/data_tab.php:78
+#: elementor/widgets/custom-product/excerpt.php:83
+#: elementor/widgets/custom-product/linked_products.php:75
+#: elementor/widgets/custom-product/linked_products.php:360
+#: elementor/widgets/custom-product/linked_products.php:385
+#: elementor/widgets/custom-product/linked_products.php:558
+#: elementor/widgets/custom-product/linked_products.php:569
+#: elementor/widgets/custom-product/meta.php:80
+#: elementor/widgets/custom-product/navigation.php:62
+#: elementor/widgets/custom-product/price.php:136
+#: elementor/widgets/custom-product/rating.php:61
+#: elementor/widgets/custom-product/share.php:163
+#: elementor/widgets/custom-product/title.php:83 elementor/widgets/heading.php:208
+#: elementor/widgets/heading.php:240 elementor/widgets/hotspot.php:178
+#: elementor/widgets/image_carousel.php:169 elementor/widgets/nav_menu.php:257
+#: elementor/widgets/product.php:98 elementor/widgets/product.php:526
+#: elementor/widgets/product.php:618 elementor/widgets/product.php:666
+#: elementor/widgets/product.php:852 elementor/widgets/product.php:1045
+#: elementor/widgets/product.php:1056 elementor/widgets/product.php:2887
+#: elementor/widgets/product.php:2897 elementor/widgets/product_brand.php:214
+#: elementor/widgets/product_category.php:110 elementor/widgets/product_category.php:492
+#: elementor/widgets/product_category.php:667 elementor/widgets/product_category.php:675
+#: elementor/widgets/product_category.php:852 elementor/widgets/testimonial.php:260
+#: meta_boxes/locations/category.php:73 meta_boxes/locations/category.php:169
+msgid "Left"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:305 assets/js/gutenberg-blocks.js:311
+#: assets/js/gutenberg-blocks.js:909 assets/js/gutenberg-blocks.js:1050
+#: assets/js/gutenberg-blocks.js:1760 assets/js/gutenberg-blocks.js:1891
+#: assets/js/gutenberg-blocks.js:1916 assets/js/gutenberg-blocks.js:1922
+#: assets/js/gutenberg-blocks.js:2499 assets/js/gutenberg-blocks.js:2579
+#: assets/js/gutenberg-blocks.js:2618 assets/js/gutenberg-blocks.js:2859
+#: assets/js/gutenberg-blocks.js:2911 assets/js/gutenberg-blocks.js:3584
+#: assets/js/gutenberg-blocks.js:3590 assets/js/gutenberg-blocks.js:4077
+#: elementor/elements/column.php:52 elementor/elements/column.php:69
+#: elementor/elements/section.php:881 elementor/elements/section.php:1070
+#: elementor/elements/section.php:2762 elementor/init.php:476
+#: elementor/widgets/banner.php:153 elementor/widgets/banner.php:1040
+#: elementor/widgets/banner.php:1062 elementor/widgets/banner.php:1075
+#: elementor/widgets/blog.php:94 elementor/widgets/blog.php:485
+#: elementor/widgets/button.php:75 elementor/widgets/count_down.php:69
+#: elementor/widgets/count_to.php:113 elementor/widgets/custom-product/cart_form.php:127
+#: elementor/widgets/custom-product/countdown.php:91
+#: elementor/widgets/custom-product/data_tab.php:82
+#: elementor/widgets/custom-product/excerpt.php:87
+#: elementor/widgets/custom-product/linked_products.php:79
+#: elementor/widgets/custom-product/linked_products.php:364
+#: elementor/widgets/custom-product/linked_products.php:386
+#: elementor/widgets/custom-product/linked_products.php:404
+#: elementor/widgets/custom-product/meta.php:84
+#: elementor/widgets/custom-product/navigation.php:66
+#: elementor/widgets/custom-product/price.php:140
+#: elementor/widgets/custom-product/rating.php:65
+#: elementor/widgets/custom-product/share.php:167
+#: elementor/widgets/custom-product/title.php:87 elementor/widgets/heading.php:212
+#: elementor/widgets/image_carousel.php:173 elementor/widgets/product.php:102
+#: elementor/widgets/product.php:530 elementor/widgets/product.php:670
+#: elementor/widgets/product.php:856 elementor/widgets/product.php:879
+#: elementor/widgets/product.php:896 elementor/widgets/product_brand.php:218
+#: elementor/widgets/product_category.php:114 elementor/widgets/product_category.php:496
+#: elementor/widgets/product_category.php:525 elementor/widgets/product_category.php:539
+#: elementor/widgets/testimonial.php:264 elementor/widgets/testimonial.php:290
+msgid "Center"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:305 assets/js/gutenberg-blocks.js:909
+#: assets/js/gutenberg-blocks.js:1050 assets/js/gutenberg-blocks.js:1760
+#: assets/js/gutenberg-blocks.js:1891 assets/js/gutenberg-blocks.js:1916
+#: assets/js/gutenberg-blocks.js:2499 assets/js/gutenberg-blocks.js:2579
+#: assets/js/gutenberg-blocks.js:2618 assets/js/gutenberg-blocks.js:2859
+#: assets/js/gutenberg-blocks.js:2911 assets/js/gutenberg-blocks.js:3590
+#: assets/js/gutenberg-blocks.js:4077 elementor/conditional/init.php:65
+#: elementor/conditional/init.php:239 elementor/elements/column.php:134
+#: elementor/elements/column.php:144 elementor/elements/section.php:885
+#: elementor/elements/section.php:1074 elementor/init.php:480
+#: elementor/widgets/banner.php:157 elementor/widgets/banner.php:1044
+#: elementor/widgets/banner.php:1189 elementor/widgets/banner.php:1196
+#: elementor/widgets/blog.php:98 elementor/widgets/blog.php:489
+#: elementor/widgets/button.php:79 elementor/widgets/count_down.php:73
+#: elementor/widgets/count_to.php:117 elementor/widgets/custom-header/cart.php:111
+#: elementor/widgets/custom-header/wishlist.php:85
+#: elementor/widgets/custom-product/cart_form.php:131
+#: elementor/widgets/custom-product/countdown.php:95
+#: elementor/widgets/custom-product/data_tab.php:86
+#: elementor/widgets/custom-product/excerpt.php:91
+#: elementor/widgets/custom-product/linked_products.php:83
+#: elementor/widgets/custom-product/linked_products.php:368
+#: elementor/widgets/custom-product/linked_products.php:387
+#: elementor/widgets/custom-product/linked_products.php:468
+#: elementor/widgets/custom-product/linked_products.php:479
+#: elementor/widgets/custom-product/meta.php:88
+#: elementor/widgets/custom-product/navigation.php:70
+#: elementor/widgets/custom-product/price.php:144
+#: elementor/widgets/custom-product/rating.php:69
+#: elementor/widgets/custom-product/share.php:171
+#: elementor/widgets/custom-product/title.php:91 elementor/widgets/heading.php:216
+#: elementor/widgets/heading.php:241 elementor/widgets/hotspot.php:176
+#: elementor/widgets/image_carousel.php:177 elementor/widgets/nav_menu.php:261
+#: elementor/widgets/product.php:106 elementor/widgets/product.php:534
+#: elementor/widgets/product.php:626 elementor/widgets/product.php:674
+#: elementor/widgets/product.php:860 elementor/widgets/product.php:957
+#: elementor/widgets/product.php:968 elementor/widgets/product.php:2807
+#: elementor/widgets/product.php:2817 elementor/widgets/product_brand.php:222
+#: elementor/widgets/product_category.php:118 elementor/widgets/product_category.php:500
+#: elementor/widgets/product_category.php:591 elementor/widgets/product_category.php:599
+#: elementor/widgets/product_category.php:856 elementor/widgets/testimonial.php:268
+#: meta_boxes/locations/category.php:74 meta_boxes/locations/category.php:170
+msgid "Right"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:309 assets/js/gutenberg-blocks.js:1920
+#: elementor/widgets/custom-product/linked_products.php:399
+msgid "Origin Y Pos"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:311 assets/js/gutenberg-blocks.js:995
+#: assets/js/gutenberg-blocks.js:1858 assets/js/gutenberg-blocks.js:1922
+#: assets/js/gutenberg-blocks.js:2585 assets/js/gutenberg-blocks.js:3584
+#: elementor/elements/column.php:81 elementor/elements/column.php:91
+#: elementor/elements/column.php:453 elementor/elements/column.php:560
+#: elementor/elements/section.php:384 elementor/elements/section.php:492
+#: elementor/elements/section.php:2763 elementor/init.php:409 elementor/init.php:436
+#: elementor/init.php:499 elementor/widgets/banner.php:1137
+#: elementor/widgets/banner.php:1144 elementor/widgets/blog.php:282
+#: elementor/widgets/custom-header/cart.php:115
+#: elementor/widgets/custom-header/cart.php:169
+#: elementor/widgets/custom-header/login_popup.php:163
+#: elementor/widgets/custom-header/wishlist.php:89
+#: elementor/widgets/custom-header/wishlist.php:143
+#: elementor/widgets/custom-product/linked_products.php:246
+#: elementor/widgets/custom-product/linked_products.php:403
+#: elementor/widgets/custom-product/linked_products.php:419
+#: elementor/widgets/custom-product/linked_products.php:430
+#: elementor/widgets/hotspot.php:175 elementor/widgets/image_carousel.php:149
+#: elementor/widgets/image_carousel.php:205 elementor/widgets/product.php:411
+#: elementor/widgets/product.php:622 elementor/widgets/product.php:909
+#: elementor/widgets/product.php:920 elementor/widgets/product.php:2397
+#: elementor/widgets/product.php:2765 elementor/widgets/product.php:2775
+#: elementor/widgets/product_brand.php:194 elementor/widgets/product_brand.php:250
+#: elementor/widgets/product_category.php:348 elementor/widgets/product_category.php:549
+#: elementor/widgets/product_category.php:557 elementor/widgets/testimonial.php:218
+#: elementor/widgets/testimonial.php:286 meta_boxes/locations/category.php:75
+#: meta_boxes/locations/category.php:171
+msgid "Top"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:311 assets/js/gutenberg-blocks.js:1922
+#: assets/js/gutenberg-blocks.js:3584 elementor/elements/column.php:183
+#: elementor/elements/column.php:193 elementor/elements/column.php:455
+#: elementor/elements/section.php:386 elementor/init.php:417 elementor/init.php:444
+#: elementor/init.php:507 elementor/widgets/banner.php:1237
+#: elementor/widgets/banner.php:1244
+#: elementor/widgets/custom-product/linked_products.php:405
+#: elementor/widgets/custom-product/linked_products.php:513
+#: elementor/widgets/custom-product/linked_products.php:524
+#: elementor/widgets/hotspot.php:177 elementor/widgets/image_carousel.php:151
+#: elementor/widgets/product.php:630 elementor/widgets/product.php:1001
+#: elementor/widgets/product.php:1012 elementor/widgets/product.php:2849
+#: elementor/widgets/product.php:2859 elementor/widgets/product_brand.php:196
+#: elementor/widgets/product_category.php:629 elementor/widgets/product_category.php:637
+#: elementor/widgets/testimonial.php:219 elementor/widgets/testimonial.php:294
+msgid "Bottom"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:315
+msgid "Padding Top(px)"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:321
+msgid "Padding Right(px)"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:327
+msgid "Padding Bottom(px)"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:333
+msgid "Padding Left(px)"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:734 assets/js/gutenberg-blocks.js:760
+#: assets/js/gutenberg-blocks.js:848
+msgid "Quick view"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:751 assets/js/gutenberg-blocks.js:858
+msgid "Add to cart"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:772
+msgid "Add to wishlist"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:898
+#: elementor/widgets/custom-product/linked_products.php:50
+#: elementor/widgets/custom-product/linked_products.php:58
+#: elementor/widgets/product.php:58
+msgid "Products Selector"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:902 assets/js/gutenberg-blocks.js:954
+#: assets/js/gutenberg-blocks.js:1753 assets/js/gutenberg-blocks.js:2492
+#: assets/js/gutenberg-blocks.js:2538 assets/js/gutenberg-blocks.js:2847
+#: elementor/elements/column.php:346 elementor/elements/column.php:358
+#: elementor/widgets/blog.php:65 elementor/widgets/blog.php:69
+#: elementor/widgets/blog.php:152 elementor/widgets/blog.php:616
+#: elementor/widgets/custom-product/linked_products.php:136
+#: elementor/widgets/image_carousel.php:122 elementor/widgets/product.php:65
+#: elementor/widgets/product.php:69 elementor/widgets/product.php:178
+#: elementor/widgets/product.php:1511 elementor/widgets/product.php:1642
+#: elementor/widgets/product.php:1695 elementor/widgets/product_category.php:85
+#: elementor/widgets/product_category.php:89 elementor/widgets/product_category.php:923
+#: elementor/widgets/testimonial.php:80 elementor/widgets/testimonial.php:427
+#: widgets/block.php:60 widgets/follow_us.php:123 widgets/post.php:165
+#: widgets/price_filter.php:119 widgets/product_brands.php:21
+#: widgets/product_ordering.php:63 widgets/related_products.php:143
+msgid "Title"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:907 assets/js/gutenberg-blocks.js:1758
+#: assets/js/gutenberg-blocks.js:2497
+#: elementor/widgets/custom-product/linked_products.php:70
+#: elementor/widgets/product_category.php:106
+msgid "Title Align"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:913 elementor/widgets/product.php:119
+msgid "Product Status"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:915 assets/js/gutenberg-blocks.js:921
+#: assets/js/gutenberg-blocks.js:1108 assets/js/gutenberg-blocks.js:1766
+#: assets/js/gutenberg-blocks.js:2505 elementor/conditional/init.php:61
+#: elementor/elements/section.php:3448 elementor/widgets/custom-header/search.php:70
+#: elementor/widgets/product.php:123 templates/elementor/molla_product.php:190
+msgid "All"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:915
+#: elementor/widgets/custom-product/linked_products.php:696
+#: elementor/widgets/product.php:124 elementor/widgets/product.php:1226
+msgid "Featured"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:915 elementor/widgets/product.php:125
+msgid "On Sale"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:919 assets/js/gutenberg-blocks.js:1764
+#: assets/js/gutenberg-blocks.js:2503 elementor/widgets/blog.php:515
+#: elementor/widgets/custom-product/linked_products.php:652
+#: elementor/widgets/product.php:1167
+msgid "Category"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:921 assets/js/gutenberg-blocks.js:1766
+#: assets/js/gutenberg-blocks.js:2505
+msgid "Select Mode"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:945 assets/js/gutenberg-blocks.js:1804
+#: elementor/widgets/product_brand.php:99 elementor/widgets/product_category.php:177
+msgid "Product Count"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:952 assets/js/gutenberg-blocks.js:1802
+#: assets/js/gutenberg-blocks.js:2536 elementor/widgets/product_brand.php:92
+#: widgets/post.php:183
+msgid "Order By"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:954 assets/js/gutenberg-blocks.js:1804
+#: assets/js/gutenberg-blocks.js:2538 elementor/widgets/blog.php:153
+#: elementor/widgets/custom-product/linked_products.php:137
+#: elementor/widgets/product.php:179 elementor/widgets/product_brand.php:96
+#: elementor/widgets/product_category.php:175
+msgid "ID"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:954 assets/js/gutenberg-blocks.js:2538
+#: elementor/widgets/blog.php:155 elementor/widgets/blog.php:512
+#: elementor/widgets/custom-product/linked_products.php:138
+#: elementor/widgets/product.php:180 elementor/widgets/product.php:226
+#: elementor/widgets/product.php:256 widgets/post.php:185
+msgid "Date"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:954 assets/js/gutenberg-blocks.js:2538
+#: elementor/widgets/blog.php:156
+#: elementor/widgets/custom-product/linked_products.php:139
+#: elementor/widgets/product.php:181 elementor/widgets/product_brand.php:98
+#: elementor/widgets/product_category.php:176
+msgid "Modified"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:954 elementor/widgets/blog.php:157
+#: elementor/widgets/custom-product/linked_products.php:140
+#: elementor/widgets/product.php:182
+msgid "Random"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:954
+msgid "Comment Count"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:954
+#: elementor/widgets/custom-product/linked_products.php:142 widgets/post.php:186
+msgid "Popularity"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:954
+#: elementor/widgets/custom-product/linked_products.php:143
+#: elementor/widgets/custom-product/linked_products.php:654
+#: elementor/widgets/product.php:185 elementor/widgets/product.php:1170
+#: elementor/widgets/testimonial.php:137 elementor/widgets/testimonial.php:627
+msgid "Rating"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:954 elementor/widgets/product.php:184
+#: elementor/widgets/product.php:1601 elementor/widgets/product.php:2530
+#: elementor/widgets/product.php:2542
+msgid "Total Sales"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:958 assets/js/gutenberg-blocks.js:1808
+#: assets/js/gutenberg-blocks.js:2542 widgets/post.php:192
+msgid "Order"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:960 assets/js/gutenberg-blocks.js:1810
+#: assets/js/gutenberg-blocks.js:2544 elementor/widgets/blog.php:171
+#: elementor/widgets/custom-product/linked_products.php:155
+#: elementor/widgets/product.php:199 elementor/widgets/product_brand.php:115
+#: elementor/widgets/product_category.php:193 widgets/post.php:195
+msgid "Descending"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:960 assets/js/gutenberg-blocks.js:1810
+#: assets/js/gutenberg-blocks.js:2544 elementor/widgets/blog.php:172
+#: elementor/widgets/custom-product/linked_products.php:156
+#: elementor/widgets/product.php:200 elementor/widgets/product_brand.php:114
+#: elementor/widgets/product_category.php:194 widgets/post.php:194
+msgid "Ascending"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:965
+#: elementor/widgets/custom-product/linked_products.php:166
+#: elementor/widgets/product.php:291
+msgid "Products Layout"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:969 assets/js/gutenberg-blocks.js:1824
+#: assets/js/gutenberg-blocks.js:2553 elementor/widgets/blog.php:189
+#: elementor/widgets/custom-product/linked_products.php:173
+#: elementor/widgets/product.php:298 elementor/widgets/product_category.php:219
+msgid "Layout Mode"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:971 assets/js/gutenberg-blocks.js:1826
+#: assets/js/gutenberg-blocks.js:2555 elementor/widgets/blog.php:193
+#: elementor/widgets/custom-product/linked_products.php:178
+#: elementor/widgets/product.php:302 elementor/widgets/product_category.php:223
+msgid "Grid"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:971 assets/js/gutenberg-blocks.js:1826
+#: assets/js/gutenberg-blocks.js:2555
+msgid "Grid Creative"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:971 assets/js/gutenberg-blocks.js:1826
+#: assets/js/gutenberg-blocks.js:2555 elementor/elements/column.php:39
+#: elementor/elements/column.php:702 elementor/elements/section.php:369
+#: elementor/elements/section.php:1631 elementor/widgets/blog.php:195
+#: elementor/widgets/blog.php:1171
+#: elementor/widgets/custom-product/linked_products.php:179
+#: elementor/widgets/image_carousel.php:315 elementor/widgets/product.php:304
+#: elementor/widgets/product.php:2648 elementor/widgets/product_brand.php:340
+#: elementor/widgets/product_category.php:225
+#: elementor/widgets/product_category.php:1540
+msgid "Slider"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:975 assets/js/gutenberg-blocks.js:1843
+#: assets/js/gutenberg-blocks.js:2559
+msgid "Spacing(px)"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:984 assets/js/gutenberg-blocks.js:1832
+#: assets/js/gutenberg-blocks.js:1852 assets/js/gutenberg-blocks.js:2568
+msgid "1"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:984 assets/js/gutenberg-blocks.js:1832
+#: assets/js/gutenberg-blocks.js:1852 assets/js/gutenberg-blocks.js:2568
+msgid "2"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:984 assets/js/gutenberg-blocks.js:1832
+#: assets/js/gutenberg-blocks.js:1852 assets/js/gutenberg-blocks.js:2568
+msgid "3"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:984 assets/js/gutenberg-blocks.js:1832
+#: assets/js/gutenberg-blocks.js:1852 assets/js/gutenberg-blocks.js:2568
+msgid "4"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:984 assets/js/gutenberg-blocks.js:1832
+#: assets/js/gutenberg-blocks.js:1852 assets/js/gutenberg-blocks.js:2568
+msgid "5"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:984 assets/js/gutenberg-blocks.js:1832
+#: assets/js/gutenberg-blocks.js:1852 assets/js/gutenberg-blocks.js:2568
+msgid "6"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:984 assets/js/gutenberg-blocks.js:1852
+#: assets/js/gutenberg-blocks.js:2568
+msgid "7"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:984 assets/js/gutenberg-blocks.js:1852
+#: assets/js/gutenberg-blocks.js:2568
+msgid "8"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:988
+msgid "Show Category Filter"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1001 assets/js/gutenberg-blocks.js:1864
+#: assets/js/gutenberg-blocks.js:2591 assets/js/gutenberg-blocks.js:2917
+#: elementor/elements/column.php:577 elementor/elements/section.php:509
+#: elementor/widgets/blog.php:299
+#: elementor/widgets/custom-product/linked_products.php:263
+#: elementor/widgets/image_carousel.php:219 elementor/widgets/product.php:428
+#: elementor/widgets/product_brand.php:264 elementor/widgets/product_category.php:365
+msgid "Type 3"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1005 assets/js/gutenberg-blocks.js:1868
+#: assets/js/gutenberg-blocks.js:2595 elementor/widgets/blog.php:311
+#: elementor/widgets/custom-product/linked_products.php:275
+#: elementor/widgets/product.php:440 elementor/widgets/product_category.php:377
+msgid "Show navigation?"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1010 assets/js/gutenberg-blocks.js:1873
+#: assets/js/gutenberg-blocks.js:2600 elementor/widgets/blog.php:334
+#: elementor/widgets/custom-product/linked_products.php:298
+#: elementor/widgets/product.php:463 elementor/widgets/product_category.php:400
+msgid "Show slider dots?"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1015
+msgid "View More"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1020 elementor/widgets/blog.php:407
+#: elementor/widgets/product.php:716 elementor/widgets/product_category.php:816
+msgid "Button Label"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1025 assets/js/gutenberg-blocks.js:1937
+msgid "Button Icon"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1030
+msgid "More Products Count"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1038
+msgid "Products Style"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1042
+#: elementor/widgets/custom-product/linked_products.php:330
+#: elementor/widgets/product.php:820
+msgid "Product Type"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1044 assets/js/gutenberg-blocks.js:1885
+#: assets/js/gutenberg-blocks.js:2612 assets/js/gutenberg-blocks.js:3330
+#: assets/js/gutenberg-blocks.js:4006 elementor/elements/column.php:51
+#: elementor/elements/column.php:68 elementor/elements/column.php:422
+#: elementor/elements/column.php:474 elementor/elements/section.php:367
+#: elementor/elements/section.php:405 elementor/widgets/banner.php:81
+#: elementor/widgets/banner.php:242 elementor/widgets/banner.php:888
+#: elementor/widgets/banner.php:1061 elementor/widgets/banner.php:1074
+#: elementor/widgets/blog.php:223 elementor/widgets/blog.php:448
+#: elementor/widgets/button.php:109 elementor/widgets/custom-product/cart_form.php:61
+#: elementor/widgets/custom-product/linked_products.php:334
+#: elementor/widgets/custom-product/linked_products.php:716
+#: elementor/widgets/custom-product/linked_products.php:734
+#: elementor/widgets/floating_image.php:221 elementor/widgets/nav_menu.php:81
+#: elementor/widgets/product.php:335 elementor/widgets/product.php:824
+#: elementor/widgets/product.php:878 elementor/widgets/product.php:895
+#: elementor/widgets/product.php:1243 elementor/widgets/product.php:1262
+#: elementor/widgets/product_category.php:289 elementor/widgets/product_category.php:471
+#: elementor/widgets/product_category.php:524 elementor/widgets/product_category.php:538
+#: elementor/widgets/team_member.php:54 functions/helper.php:518 meta_boxes/init.php:38
+#: meta_boxes/locations/category.php:33 meta_boxes/locations/category.php:42
+#: meta_boxes/locations/category.php:52 meta_boxes/locations/category.php:63
+#: meta_boxes/locations/category.php:72 meta_boxes/locations/category.php:116
+#: meta_boxes/locations/category.php:127 meta_boxes/locations/category.php:137
+#: meta_boxes/locations/category.php:148 meta_boxes/locations/category.php:158
+#: meta_boxes/locations/category.php:168 meta_boxes/locations/product.php:18
+#: widgets/follow_us.php:255
+msgid "Default"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1044
+#: elementor/widgets/custom-product/linked_products.php:335
+#: elementor/widgets/product.php:825
+msgid "Classic"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1044 assets/js/gutenberg-blocks.js:2612
+#: elementor/widgets/blog.php:449
+#: elementor/widgets/custom-product/linked_products.php:336
+#: elementor/widgets/product.php:832
+msgid "List"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1044
+#: elementor/widgets/custom-product/linked_products.php:337
+#: elementor/widgets/product.php:826
+msgid "Simple"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1044
+#: elementor/widgets/custom-product/linked_products.php:338
+#: elementor/widgets/product.php:827
+msgid "Popup 1"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1044
+#: elementor/widgets/custom-product/linked_products.php:339
+#: elementor/widgets/product.php:828
+msgid "Popup 2"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1044
+#: elementor/widgets/custom-product/linked_products.php:340
+#: elementor/widgets/product.php:829
+msgid "Slide Over"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1044 elementor/widgets/banner.php:280
+#: elementor/widgets/button.php:141
+#: elementor/widgets/custom-product/linked_products.php:341
+#: elementor/widgets/product.php:830
+msgid "Light"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1044 elementor/widgets/banner.php:279
+#: elementor/widgets/button.php:140
+#: elementor/widgets/custom-product/linked_products.php:342
+#: elementor/widgets/product.php:831
+msgid "Dark"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1048 assets/js/gutenberg-blocks.js:1889
+msgid "Align Content"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1054 assets/js/gutenberg-blocks.js:3594
+msgid "Enable border"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1059
+#: elementor/widgets/custom-product/linked_products.php:773
+#: elementor/widgets/product.php:1301
+msgid "Hide Icon"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1093
+msgid "Filter"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1723 elementor/widgets/image_carousel.php:136
+#: elementor/widgets/product_brand.php:181
+msgid "No"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1723
+msgid " Product"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1723
+msgid " Products"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1730 elementor/widgets/product_category.php:817
+#: templates/elementor/molla_product_category.php:54
+msgid "Shop Now"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1749 elementor/widgets/product_category.php:78
+msgid "Categories Selector"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1790 elementor/widgets/product_category.php:143
+msgid "Show sub categories?"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1795 elementor/widgets/product_category.php:155
+msgid "Categories Count"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1804 elementor/widgets/product.php:1166
+#: elementor/widgets/product_brand.php:95 elementor/widgets/product_category.php:174
+#: elementor/widgets/team_member.php:80 elementor/widgets/testimonial.php:62
+#: elementor/widgets/testimonial.php:535 elementor/widgets/testimonial.php:555
+#: widgets/product_brands.php:29
+msgid "Name"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1804 assets/js/gutenberg-blocks.js:3430
+#: elementor/widgets/blog.php:76 elementor/widgets/blog.php:79
+#: elementor/widgets/blog.php:631 elementor/widgets/blog.php:757
+#: elementor/widgets/blog.php:831 elementor/widgets/count_to.php:96
+#: elementor/widgets/count_to.php:167 elementor/widgets/count_to.php:207
+#: elementor/widgets/image_carousel.php:124 elementor/widgets/product.php:84
+#: elementor/widgets/product.php:87 elementor/widgets/product.php:1520
+#: elementor/widgets/product.php:1653 elementor/widgets/product_brand.php:101
+#: elementor/widgets/product_category.php:96 elementor/widgets/product_category.php:99
+#: elementor/widgets/product_category.php:179 elementor/widgets/product_category.php:966
+#: elementor/widgets/team_member.php:98
+msgid "Description"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1804 elementor/widgets/product_brand.php:102
+#: elementor/widgets/product_category.php:180
+msgid "Term Group"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1814
+msgid "Show empty categories?"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1820 elementor/widgets/product_category.php:212
+msgid "Categories Layout"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1830 elementor/elements/section.php:965
+#: elementor/widgets/product_category.php:233
+msgid "Grid Layout Type"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1836 elementor/elements/section.php:978
+#: elementor/widgets/product_category.php:246
+msgid "Grid Height (px)"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1879 elementor/widgets/product_category.php:460
+msgid "Categories Style"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1883 elementor/widgets/product_category.php:467
+msgid "Category Type"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1885 elementor/widgets/product_category.php:472
+msgid "Float"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1885 elementor/widgets/count_down.php:112
+#: elementor/widgets/custom-product/countdown.php:62 elementor/widgets/hotspot.php:58
+#: elementor/widgets/product_category.php:473 meta_boxes/locations/product.php:67
+msgid "Block"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1885 elementor/widgets/product_category.php:474
+msgid "Action-popup"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1885 elementor/widgets/product_category.php:475
+msgid "Action-slide"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1885 elementor/widgets/product_category.php:476
+msgid "Back-clip"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1885 elementor/widgets/product_category.php:477
+msgid "Fade-up"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1885 elementor/widgets/product_category.php:478
+msgid "Fade-down"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1885 elementor/widgets/product_category.php:479
+msgid "Expand"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1885 elementor/widgets/product_category.php:480
+msgid "Content-inner-link"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1895 elementor/widgets/product_category.php:511
+msgid "Enable Overlay"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1926 elementor/widgets/product_category.php:800
+msgid "Hide product counts"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1931 elementor/widgets/product_category.php:825
+msgid "Button Type"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1933 assets/js/gutenberg-blocks.js:2884
+#: assets/js/gutenberg-blocks.js:3989 assets/js/gutenberg-blocks.js:4006
+#: elementor/elements/section.php:1121 elementor/elements/section.php:1142
+#: elementor/elements/section.php:1163 elementor/widgets/banner.php:244
+#: elementor/widgets/button.php:111 elementor/widgets/heading.php:90
+#: elementor/widgets/heading.php:317 elementor/widgets/product_category.php:828
+#: elementor/widgets/testimonial.php:119
+msgid "Link"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:1933 elementor/widgets/banner.php:68
+#: elementor/widgets/button.php:48 elementor/widgets/custom-header/search.php:265
+#: elementor/widgets/product_category.php:829
+msgid "Button"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2404
+msgid "by "
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2437 elementor/widgets/blog.php:514
+#: elementor/widgets/testimonial.php:473 elementor/widgets/testimonial.php:493
+msgid "Comment"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2437
+msgid "Comments"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2449
+msgid "in "
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2474 elementor/widgets/blog.php:575
+msgid "Continue Reading"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2488
+msgid "Blogs Selector"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2529 elementor/widgets/blog.php:134
+msgid "Posts Count Per Page"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2538 elementor/widgets/blog.php:154
+#: elementor/widgets/blog.php:513
+msgid "Author"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2538
+msgid "Include"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2538 elementor/widgets/product_brand.php:100
+#: elementor/widgets/product_category.php:178
+msgid "Parent"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2538
+msgid "Relevance"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2538 elementor/widgets/product_brand.php:97
+msgid "Slug"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2549 elementor/widgets/blog.php:182
+msgid "Blog Layout"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2572
+msgid "Show pagination?"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2577
+msgid "Pagination position"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2606
+msgid "Blogs Style"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2610 elementor/widgets/blog.php:444
+msgid "Blog Post Type"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2616 elementor/widgets/blog.php:476
+#: elementor/widgets/product_category.php:488
+msgid "Content Align"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2636 elementor/widgets/blog.php:526
+msgid "Excerpt Type"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2638 elementor/widgets/blog.php:529
+msgid "Theme options"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2638 elementor/init.php:358
+#: elementor/widgets/blog.php:530
+#: elementor/widgets/custom-product/linked_products.php:322
+#: elementor/widgets/lightbox.php:69 elementor/widgets/product.php:218
+#: elementor/widgets/product.php:248 elementor/widgets/product.php:812
+#: meta_boxes/locations/post.php:42 meta_boxes/locations/post.php:148
+#: meta_boxes/locations/post.php:199 meta_boxes/locations/post.php:260
+msgid "Custom"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2642 elementor/widgets/blog.php:539
+msgid "Excerpt By"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2644 elementor/widgets/blog.php:542
+msgid "Words"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2644 elementor/widgets/blog.php:543
+msgid "Characters"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2648 elementor/widgets/blog.php:555
+msgid "Excerpt Length"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2851
+msgid "Title Tag"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2853 assets/js/gutenberg-blocks.js:2875
+#: assets/js/gutenberg-blocks.js:3414 assets/js/gutenberg-blocks.js:3437
+#: elementor/widgets/banner.php:126
+msgid "H1"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2853 assets/js/gutenberg-blocks.js:2875
+#: assets/js/gutenberg-blocks.js:3414 assets/js/gutenberg-blocks.js:3437
+#: elementor/widgets/banner.php:127
+msgid "H2"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2853 assets/js/gutenberg-blocks.js:2875
+#: assets/js/gutenberg-blocks.js:3414 assets/js/gutenberg-blocks.js:3437
+#: elementor/widgets/banner.php:128
+msgid "H3"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2853 assets/js/gutenberg-blocks.js:2875
+#: assets/js/gutenberg-blocks.js:3414 assets/js/gutenberg-blocks.js:3437
+#: elementor/widgets/banner.php:129
+msgid "H4"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2853 assets/js/gutenberg-blocks.js:2875
+#: assets/js/gutenberg-blocks.js:3414 assets/js/gutenberg-blocks.js:3437
+#: elementor/widgets/banner.php:130
+msgid "H5"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2853 assets/js/gutenberg-blocks.js:2875
+#: assets/js/gutenberg-blocks.js:3414 assets/js/gutenberg-blocks.js:3437
+#: elementor/widgets/banner.php:131
+msgid "H6"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2857 assets/js/gutenberg-blocks.js:2909
+#: assets/js/gutenberg-blocks.js:4075 elementor/widgets/banner.php:145
+#: elementor/widgets/blog.php:86 elementor/widgets/button.php:67
+#: elementor/widgets/count_down.php:61 elementor/widgets/count_to.php:105
+#: elementor/widgets/product.php:94
+msgid "Alignment"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2864
+msgid "Extra"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2868 elementor/widgets/heading.php:51
+#: elementor/widgets/heading.php:279 meta_boxes/locations/post.php:61
+msgid "Subtitle"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2873
+msgid "Subtitle Tag"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2875 assets/js/gutenberg-blocks.js:3437
+#: elementor/widgets/banner.php:134
+msgid "span"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2875 assets/js/gutenberg-blocks.js:3437
+#: elementor/widgets/banner.php:132
+msgid "p"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2879 elementor/widgets/heading.php:81
+msgid "Show Subtitle"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2889 elementor/elements/section.php:768
+#: elementor/widgets/banner.php:207 elementor/widgets/button.php:94
+#: elementor/widgets/heading.php:100 elementor/widgets/hotspot.php:87
+#: elementor/widgets/nav_menu.php:179
+msgid "Link Url"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2894
+msgid "Link Icon Class"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2899 elementor/widgets/heading.php:169
+msgid "Show Link"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2905 assets/js/gutenberg-blocks.js:3576
+#: assets/js/gutenberg-blocks.js:4004 elementor/widgets/banner.php:63
+#: elementor/widgets/banner.php:238 elementor/widgets/button.php:105
+#: elementor/widgets/custom-header/responsive_group.php:150
+#: elementor/widgets/custom-product/cart_form.php:58
+#: elementor/widgets/custom-product/countdown.php:58
+#: elementor/widgets/custom-product/data_tab.php:61
+#: elementor/widgets/custom-product/linked_products.php:317
+#: elementor/widgets/heading.php:197 elementor/widgets/hotspot.php:53
+#: elementor/widgets/product.php:807 elementor/widgets/team_member.php:50
+#: widgets/follow_us.php:253
+msgid "Type"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2911 assets/js/gutenberg-blocks.js:4077
+#: elementor/widgets/button.php:83 elementor/widgets/custom-product/meta.php:92
+#: elementor/widgets/heading.php:220
+msgid "Justified"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2915 elementor/widgets/heading.php:234
+msgid "Decoration Type"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2921
+msgid "Decoration Spacing ( px )"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2929 assets/js/gutenberg-blocks.js:2970
+#: assets/js/gutenberg-blocks.js:3035 assets/js/gutenberg-blocks.js:3447
+#: assets/js/gutenberg-blocks.js:3488 assets/js/gutenberg-blocks.js:3548
+#: assets/js/gutenberg-blocks.js:4127 elementor/init.php:520
+#: elementor/widgets/banner.php:733 elementor/widgets/custom-header/login_popup.php:213
+msgid "Style"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2933 assets/js/gutenberg-blocks.js:3451
+msgid "Title Color"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2936 assets/js/gutenberg-blocks.js:3001
+#: assets/js/gutenberg-blocks.js:3383 assets/js/gutenberg-blocks.js:3394
+#: assets/js/gutenberg-blocks.js:3454 assets/js/gutenberg-blocks.js:3514
+#: assets/js/gutenberg-blocks.js:4158 assets/js/gutenberg-blocks.js:4161
+#: assets/js/gutenberg-blocks.js:4172 assets/js/gutenberg-blocks.js:4183
+#: assets/js/gutenberg-blocks.js:4191 assets/js/gutenberg-blocks.js:4194
+#: assets/js/gutenberg-blocks.js:4205 assets/js/gutenberg-blocks.js:4216
+#: assets/js/gutenberg-blocks.js:4519 elementor/elements/column.php:863
+#: elementor/elements/column.php:911 elementor/elements/section.php:1791
+#: elementor/elements/section.php:1838 elementor/elements/section.php:2636
+#: elementor/widgets/banner.php:170 elementor/widgets/banner.php:445
+#: elementor/widgets/banner.php:499 elementor/widgets/banner.php:553
+#: elementor/widgets/blog.php:812 elementor/widgets/blog.php:1087
+#: elementor/widgets/blog.php:1329 elementor/widgets/blog.php:1376
+#: elementor/widgets/button.php:390 elementor/widgets/button.php:440
+#: elementor/widgets/button.php:490 elementor/widgets/count_down.php:298
+#: elementor/widgets/count_to.php:177 elementor/widgets/custom-header/cart.php:380
+#: elementor/widgets/custom-header/currency_switcher.php:104
+#: elementor/widgets/custom-header/currency_switcher.php:146
+#: elementor/widgets/custom-header/currency_switcher.php:318
+#: elementor/widgets/custom-header/currency_switcher.php:360
+#: elementor/widgets/custom-header/lang_switcher.php:104
+#: elementor/widgets/custom-header/lang_switcher.php:146
+#: elementor/widgets/custom-header/lang_switcher.php:318
+#: elementor/widgets/custom-header/lang_switcher.php:360
+#: elementor/widgets/custom-header/mobile_toggle.php:130
+#: elementor/widgets/custom-header/mobile_toggle.php:172
+#: elementor/widgets/custom-header/responsive_group.php:107
+#: elementor/widgets/custom-header/responsive_group.php:125
+#: elementor/widgets/custom-header/search.php:199
+#: elementor/widgets/custom-header/search.php:329
+#: elementor/widgets/custom-header/search.php:371
+#: elementor/widgets/custom-header/vertical_divider.php:52
+#: elementor/widgets/custom-header/wishlist.php:313
+#: elementor/widgets/custom-product/data_tab.php:119
+#: elementor/widgets/custom-product/data_tab.php:161
+#: elementor/widgets/custom-product/data_tab.php:203
+#: elementor/widgets/custom-product/excerpt.php:68
+#: elementor/widgets/custom-product/price.php:76
+#: elementor/widgets/custom-product/price.php:97
+#: elementor/widgets/custom-product/price.php:117
+#: elementor/widgets/custom-product/share.php:86
+#: elementor/widgets/custom-product/share.php:125
+#: elementor/widgets/custom-product/title.php:68 elementor/widgets/heading.php:414
+#: elementor/widgets/hotspot.php:314 elementor/widgets/hotspot.php:345
+#: elementor/widgets/image_carousel.php:459 elementor/widgets/image_carousel.php:506
+#: elementor/widgets/nav_menu.php:144 elementor/widgets/nav_menu.php:337
+#: elementor/widgets/nav_menu.php:379 elementor/widgets/nav_menu.php:496
+#: elementor/widgets/nav_menu.php:538 elementor/widgets/nav_menu.php:649
+#: elementor/widgets/nav_menu.php:691 elementor/widgets/nav_menu.php:831
+#: elementor/widgets/nav_menu.php:873 elementor/widgets/product.php:1626
+#: elementor/widgets/product.php:1750 elementor/widgets/product.php:1829
+#: elementor/widgets/product.php:1868 elementor/widgets/product.php:1922
+#: elementor/widgets/product.php:1969 elementor/widgets/product.php:2047
+#: elementor/widgets/product.php:2086 elementor/widgets/product.php:2125
+#: elementor/widgets/product.php:2173 elementor/widgets/product.php:2251
+#: elementor/widgets/product.php:2290 elementor/widgets/product.php:2329
+#: elementor/widgets/product.php:2404 elementor/widgets/product.php:2434
+#: elementor/widgets/product.php:2464 elementor/widgets/product.php:2494
+#: elementor/widgets/product.php:2946 elementor/widgets/product.php:2993
+#: elementor/widgets/product_brand.php:484 elementor/widgets/product_brand.php:531
+#: elementor/widgets/product_category.php:940 elementor/widgets/product_category.php:984
+#: elementor/widgets/product_category.php:1089
+#: elementor/widgets/product_category.php:1226
+#: elementor/widgets/product_category.php:1246
+#: elementor/widgets/product_category.php:1334
+#: elementor/widgets/product_category.php:1382
+#: elementor/widgets/product_category.php:1456
+#: elementor/widgets/product_category.php:1700
+#: elementor/widgets/product_category.php:1748 elementor/widgets/testimonial.php:335
+#: elementor/widgets/testimonial.php:435 elementor/widgets/testimonial.php:481
+#: elementor/widgets/testimonial.php:543 elementor/widgets/testimonial.php:589
+#: elementor/widgets/testimonial.php:643 elementor/widgets/testimonial.php:714
+#: meta_boxes/locations/product_attr.php:97 meta_boxes/locations/product_attr.php:122
+msgid "Color"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2948 assets/js/gutenberg-blocks.js:3013
+#: assets/js/gutenberg-blocks.js:3466 assets/js/gutenberg-blocks.js:3526
+msgid "Family"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2953 assets/js/gutenberg-blocks.js:3018
+#: assets/js/gutenberg-blocks.js:3471 assets/js/gutenberg-blocks.js:3531
+#: elementor/elements/section.php:2651 elementor/widgets/banner.php:255
+#: elementor/widgets/button.php:119 elementor/widgets/custom-product/navigation.php:140
+#: elementor/widgets/custom-product/share.php:61 elementor/widgets/testimonial.php:318
+#: elementor/widgets/testimonial.php:688 widgets/follow_us.php:264
+msgid "Size"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2958 assets/js/gutenberg-blocks.js:3023
+#: assets/js/gutenberg-blocks.js:3476 assets/js/gutenberg-blocks.js:3536
+msgid "Weight"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2960 assets/js/gutenberg-blocks.js:3025
+#: assets/js/gutenberg-blocks.js:3478 assets/js/gutenberg-blocks.js:3538
+msgid "200"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2960 assets/js/gutenberg-blocks.js:3025
+#: assets/js/gutenberg-blocks.js:3478 assets/js/gutenberg-blocks.js:3538
+msgid "300"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2960 assets/js/gutenberg-blocks.js:3025
+#: assets/js/gutenberg-blocks.js:3478 assets/js/gutenberg-blocks.js:3538
+msgid "400"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2960 assets/js/gutenberg-blocks.js:3025
+#: assets/js/gutenberg-blocks.js:3478 assets/js/gutenberg-blocks.js:3538
+msgid "500"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2960 assets/js/gutenberg-blocks.js:3025
+#: assets/js/gutenberg-blocks.js:3478 assets/js/gutenberg-blocks.js:3538
+msgid "600"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2960 assets/js/gutenberg-blocks.js:3025
+#: assets/js/gutenberg-blocks.js:3478 assets/js/gutenberg-blocks.js:3538
+msgid "700"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2960 assets/js/gutenberg-blocks.js:3025
+#: assets/js/gutenberg-blocks.js:3478 assets/js/gutenberg-blocks.js:3538
+msgid "800"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2960 assets/js/gutenberg-blocks.js:3025
+#: assets/js/gutenberg-blocks.js:3478 assets/js/gutenberg-blocks.js:3538
+msgid "900"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2964 assets/js/gutenberg-blocks.js:3029
+#: assets/js/gutenberg-blocks.js:3482 assets/js/gutenberg-blocks.js:3542
+msgid "Transform"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2966 assets/js/gutenberg-blocks.js:3031
+#: assets/js/gutenberg-blocks.js:3484 assets/js/gutenberg-blocks.js:3544
+msgid "Uppercase"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2966 assets/js/gutenberg-blocks.js:3031
+#: assets/js/gutenberg-blocks.js:3484 assets/js/gutenberg-blocks.js:3544
+msgid "Lowercase"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2966 assets/js/gutenberg-blocks.js:3031
+#: assets/js/gutenberg-blocks.js:3484 assets/js/gutenberg-blocks.js:3544
+msgid "Capitalize"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2966 assets/js/gutenberg-blocks.js:2972
+#: assets/js/gutenberg-blocks.js:3031 assets/js/gutenberg-blocks.js:3037
+#: assets/js/gutenberg-blocks.js:3484 assets/js/gutenberg-blocks.js:3490
+#: assets/js/gutenberg-blocks.js:3544 assets/js/gutenberg-blocks.js:3550
+#: assets/js/gutenberg-blocks.js:4018 assets/js/gutenberg-blocks.js:4145
+#: elementor/elements/column.php:845 elementor/elements/column.php:1032
+#: elementor/elements/section.php:1774 elementor/elements/section.php:1957
+#: elementor/elements/section.php:2223 elementor/elements/section.php:2445
+#: elementor/widgets/banner.php:260 elementor/widgets/banner.php:435
+#: elementor/widgets/banner.php:691 elementor/widgets/banner.php:1357
+#: elementor/widgets/blog.php:844 elementor/widgets/blog.php:964
+#: elementor/widgets/blog.php:1133 elementor/widgets/blog.php:1311
+#: elementor/widgets/blog.php:1495 elementor/widgets/button.php:124
+#: elementor/widgets/button.php:383 elementor/widgets/custom-header/cart.php:262
+#: elementor/widgets/custom-header/currency_switcher.php:97
+#: elementor/widgets/custom-header/currency_switcher.php:311
+#: elementor/widgets/custom-header/lang_switcher.php:97
+#: elementor/widgets/custom-header/lang_switcher.php:311
+#: elementor/widgets/custom-header/login_popup.php:232
+#: elementor/widgets/custom-header/mobile_toggle.php:123
+#: elementor/widgets/custom-header/responsive_group.php:101
+#: elementor/widgets/custom-header/responsive_group.php:310
+#: elementor/widgets/custom-header/search.php:322
+#: elementor/widgets/custom-header/wishlist.php:215
+#: elementor/widgets/custom-product/data_tab.php:112
+#: elementor/widgets/custom-product/navigation.php:159
+#: elementor/widgets/custom-product/price.php:69
+#: elementor/widgets/custom-product/share.php:79
+#: elementor/widgets/floating_image.php:246 elementor/widgets/heading.php:336
+#: elementor/widgets/hotspot.php:307 elementor/widgets/image_carousel.php:434
+#: elementor/widgets/image_carousel.php:618 elementor/widgets/nav_menu.php:330
+#: elementor/widgets/nav_menu.php:489 elementor/widgets/nav_menu.php:642
+#: elementor/widgets/nav_menu.php:824 elementor/widgets/product.php:1636
+#: elementor/widgets/product.php:1734 elementor/widgets/product.php:2610
+#: elementor/widgets/product.php:2928 elementor/widgets/product.php:3112
+#: elementor/widgets/product_brand.php:459 elementor/widgets/product_brand.php:643
+#: elementor/widgets/product_category.php:1082
+#: elementor/widgets/product_category.php:1219
+#: elementor/widgets/product_category.php:1327
+#: elementor/widgets/product_category.php:1502
+#: elementor/widgets/product_category.php:1682
+#: elementor/widgets/product_category.php:1868
+msgid "Normal"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2972 assets/js/gutenberg-blocks.js:3037
+#: assets/js/gutenberg-blocks.js:3490 assets/js/gutenberg-blocks.js:3550
+msgid "Italic"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2972 assets/js/gutenberg-blocks.js:3037
+#: assets/js/gutenberg-blocks.js:3490 assets/js/gutenberg-blocks.js:3550
+msgid "Oblique"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2976 assets/js/gutenberg-blocks.js:3041
+#: assets/js/gutenberg-blocks.js:3494 assets/js/gutenberg-blocks.js:3554
+msgid "Decoration"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2978 assets/js/gutenberg-blocks.js:3043
+#: assets/js/gutenberg-blocks.js:3496 assets/js/gutenberg-blocks.js:3556
+msgid "Underline"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2978 assets/js/gutenberg-blocks.js:3043
+#: assets/js/gutenberg-blocks.js:3496 assets/js/gutenberg-blocks.js:3556
+msgid "Overline"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2978 assets/js/gutenberg-blocks.js:3043
+#: assets/js/gutenberg-blocks.js:3496 assets/js/gutenberg-blocks.js:3556
+msgid "Line Through"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2978 assets/js/gutenberg-blocks.js:3043
+#: assets/js/gutenberg-blocks.js:3496 assets/js/gutenberg-blocks.js:3556
+#: elementor/widgets/banner.php:295 elementor/widgets/banner.php:991
+#: elementor/widgets/button.php:153
+#: elementor/widgets/custom-product/linked_products.php:814
+#: elementor/widgets/image_carousel.php:121 elementor/widgets/product.php:1354
+msgid "None"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2982 assets/js/gutenberg-blocks.js:3047
+#: assets/js/gutenberg-blocks.js:3500 assets/js/gutenberg-blocks.js:3560
+msgid "Line-Height"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2987 assets/js/gutenberg-blocks.js:3052
+#: assets/js/gutenberg-blocks.js:3505 assets/js/gutenberg-blocks.js:3565
+msgid "Letter Spacing"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2993
+msgid "Title Custom Class"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:2998
+msgid "Subtitle Color"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3058
+msgid "Subtitle Custom Class"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3147 templates/gutenberg/molla_heading.php:6
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3319 elementor/elements/column.php:370
+#: elementor/elements/section.php:902 elementor/widgets/banner.php:351
+#: elementor/widgets/blog.php:420 elementor/widgets/button.php:212
+#: elementor/widgets/custom-header/cart.php:149
+#: elementor/widgets/custom-header/login_popup.php:143
+#: elementor/widgets/custom-header/login_popup.php:239
+#: elementor/widgets/custom-header/login_popup.php:270
+#: elementor/widgets/custom-header/mobile_toggle.php:52
+#: elementor/widgets/custom-header/responsive_group.php:239
+#: elementor/widgets/custom-header/responsive_group.php:360
+#: elementor/widgets/custom-header/wishlist.php:123 elementor/widgets/heading.php:111
+#: elementor/widgets/hotspot.php:141 elementor/widgets/nav_menu.php:221
+#: elementor/widgets/product.php:730 elementor/widgets/product_category.php:739
+#: elementor/widgets/product_category.php:840
+msgid "Icon"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3323 assets/js/gutenberg-blocks.js:4081
+msgid "Icon Class"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3328 elementor/elements/section.php:1497
+msgid "View"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3330
+msgid "Stacked"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3330
+msgid "Framed"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3339
+msgid "Shape"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3341
+#: elementor/widgets/custom-product/linked_products.php:675
+#: elementor/widgets/product.php:1205 widgets/follow_us.php:257
+msgid "Circle"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3341 assets/js/gutenberg-blocks.js:4012
+#: elementor/widgets/banner.php:312 elementor/widgets/button.php:167
+#: elementor/widgets/custom-product/linked_products.php:674
+#: elementor/widgets/product.php:1204
+msgid "Square"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3345 elementor/elements/column.php:801
+#: elementor/elements/column.php:821 elementor/elements/column.php:1012
+#: elementor/elements/section.php:1730 elementor/elements/section.php:1750
+#: elementor/elements/section.php:1938 elementor/init.php:457
+#: elementor/widgets/blog.php:1267 elementor/widgets/blog.php:1287
+#: elementor/widgets/blog.php:1476
+#: elementor/widgets/custom-header/currency_switcher.php:204
+#: elementor/widgets/custom-header/lang_switcher.php:204
+#: elementor/widgets/image_carousel.php:393 elementor/widgets/image_carousel.php:410
+#: elementor/widgets/image_carousel.php:598 elementor/widgets/product.php:2744
+#: elementor/widgets/product.php:3093 elementor/widgets/product_brand.php:418
+#: elementor/widgets/product_brand.php:435 elementor/widgets/product_brand.php:623
+#: elementor/widgets/product_category.php:1638
+#: elementor/widgets/product_category.php:1658
+#: elementor/widgets/product_category.php:1849
+msgid "Position"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3347
+msgid "Inner Content"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3347
+msgid "Outer Content"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3375
+msgid "Font size"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3380 elementor/widgets/custom-header/cart.php:269
+#: elementor/widgets/custom-header/cart.php:309
+#: elementor/widgets/custom-header/wishlist.php:222
+#: elementor/widgets/custom-header/wishlist.php:252
+#: elementor/widgets/custom-product/navigation.php:177
+#: elementor/widgets/custom-product/navigation.php:207
+#: elementor/widgets/product.php:1790 elementor/widgets/product.php:2008
+#: elementor/widgets/product.php:2212
+msgid "Icon Color"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3391
+msgid "Icon Background-Color"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3403 assets/js/gutenberg-blocks.js:3980
+#: elementor/widgets/banner.php:111 elementor/widgets/blog.php:516
+#: elementor/widgets/count_down.php:54 elementor/widgets/count_to.php:53
+#: elementor/widgets/custom-header/cart.php:43
+#: elementor/widgets/custom-header/login_popup.php:43
+#: elementor/widgets/custom-header/wishlist.php:43
+#: elementor/widgets/custom-product/cart_form.php:50
+#: elementor/widgets/custom-product/countdown.php:50
+#: elementor/widgets/custom-product/data_tab.php:53
+#: elementor/widgets/custom-product/excerpt.php:52
+#: elementor/widgets/custom-product/image.php:50
+#: elementor/widgets/custom-product/meta.php:52
+#: elementor/widgets/custom-product/navigation.php:51
+#: elementor/widgets/custom-product/price.php:52
+#: elementor/widgets/custom-product/rating.php:50
+#: elementor/widgets/custom-product/share.php:53
+#: elementor/widgets/custom-product/title.php:52 elementor/widgets/floating_image.php:54
+#: elementor/widgets/hotspot.php:46 elementor/widgets/lightbox.php:185
+#: elementor/widgets/testimonial.php:89
+msgid "Content"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3407 elementor/widgets/blog.php:748
+#: elementor/widgets/blog.php:820
+msgid "Heading"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3412
+msgid "Heading Tag"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3418
+msgid "Heading Custom Class"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3423
+msgid "Heading Spacing"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3435
+msgid "Description Tag"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3441
+msgid "Description Custom Class"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3511
+msgid "Description Color"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3572 elementor/widgets/product_brand.php:125
+msgid "Layout"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3578 elementor/elements/section.php:860
+#: elementor/init.php:403 elementor/init.php:466
+#: elementor/widgets/custom-product/meta.php:64 elementor/widgets/hotspot.php:186
+#: meta_boxes/locations/product.php:35
+msgid "Horizontal"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3578 elementor/elements/section.php:861
+#: elementor/init.php:430 elementor/init.php:493
+#: elementor/widgets/custom-product/meta.php:63 elementor/widgets/hotspot.php:223
+#: meta_boxes/locations/product.php:34
+msgid "Vertical"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3582 elementor/widgets/testimonial.php:281
+msgid "Vertical Alignment"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3588 elementor/widgets/testimonial.php:255
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3984 elementor/widgets/banner.php:67
+#: elementor/widgets/banner.php:196 elementor/widgets/button.php:55
+msgid "Text"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3994
+msgid "Open In New Tab"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:3999
+msgid "Link Rel"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4006 elementor/widgets/banner.php:243
+#: elementor/widgets/button.php:110 elementor/widgets/testimonial.php:178
+msgid "Outline"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4010
+msgid "Corner Type"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4012 elementor/widgets/banner.php:313
+#: elementor/widgets/button.php:168
+msgid "Rounded"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4012 elementor/widgets/banner.php:314
+#: elementor/widgets/button.php:169
+msgid "Ellipse"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4016
+msgid "Button Size"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4018 elementor/widgets/banner.php:259
+#: elementor/widgets/button.php:123 widgets/follow_us.php:267
+msgid "Small"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4018 elementor/widgets/banner.php:261
+#: elementor/widgets/button.php:125 widgets/follow_us.php:266
+msgid "Large"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4070
+msgid "Border-radius"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4086
+msgid "Icon Font Size"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4091
+msgid "Icon Before Text?"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4096
+msgid "Show Icon When Hover?"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4131 elementor/widgets/banner.php:90
+#: elementor/widgets/button.php:203
+#: elementor/widgets/custom-header/responsive_group.php:429
+#: elementor/widgets/hotspot.php:271 elementor/widgets/lightbox.php:197
+msgid "Custom Class"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4154 elementor/elements/column.php:892
+#: elementor/elements/column.php:1065 elementor/elements/section.php:1820
+#: elementor/elements/section.php:1988 elementor/elements/section.php:2267
+#: elementor/elements/section.php:2478 elementor/widgets/banner.php:489
+#: elementor/widgets/blog.php:897 elementor/widgets/blog.php:1001
+#: elementor/widgets/blog.php:1150 elementor/widgets/blog.php:1358
+#: elementor/widgets/blog.php:1526 elementor/widgets/button.php:433
+#: elementor/widgets/custom-header/cart.php:302
+#: elementor/widgets/custom-header/currency_switcher.php:139
+#: elementor/widgets/custom-header/currency_switcher.php:353
+#: elementor/widgets/custom-header/lang_switcher.php:139
+#: elementor/widgets/custom-header/lang_switcher.php:353
+#: elementor/widgets/custom-header/login_popup.php:263
+#: elementor/widgets/custom-header/mobile_toggle.php:165
+#: elementor/widgets/custom-header/responsive_group.php:119
+#: elementor/widgets/custom-header/responsive_group.php:334
+#: elementor/widgets/custom-header/search.php:364
+#: elementor/widgets/custom-header/wishlist.php:245
+#: elementor/widgets/custom-product/data_tab.php:154
+#: elementor/widgets/custom-product/navigation.php:189
+#: elementor/widgets/custom-product/share.php:118
+#: elementor/widgets/floating_image.php:281 elementor/widgets/heading.php:369
+#: elementor/widgets/hotspot.php:338 elementor/widgets/image_carousel.php:480
+#: elementor/widgets/image_carousel.php:649 elementor/widgets/nav_menu.php:372
+#: elementor/widgets/nav_menu.php:531 elementor/widgets/nav_menu.php:684
+#: elementor/widgets/nav_menu.php:866 elementor/widgets/product.php:1688
+#: elementor/widgets/product.php:1953 elementor/widgets/product.php:2627
+#: elementor/widgets/product.php:2975 elementor/widgets/product.php:3143
+#: elementor/widgets/product_brand.php:505 elementor/widgets/product_brand.php:674
+#: elementor/widgets/product_category.php:1102
+#: elementor/widgets/product_category.php:1239
+#: elementor/widgets/product_category.php:1375
+#: elementor/widgets/product_category.php:1519
+#: elementor/widgets/product_category.php:1730
+#: elementor/widgets/product_category.php:1899
+msgid "Hover"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4169 assets/js/gutenberg-blocks.js:4202
+msgid "Background-Color"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4180 assets/js/gutenberg-blocks.js:4213
+msgid "Border-Color"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4506
+msgid "Section Options"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4510 elementor/widgets/custom-header/search.php:140
+msgid "Wrapper"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4512 elementor/widgets/banner.php:992
+#: meta_boxes/locations/category.php:34 meta_boxes/locations/category.php:43
+#: meta_boxes/locations/category.php:53 meta_boxes/locations/category.php:128
+#: meta_boxes/locations/category.php:138 meta_boxes/locations/category.php:149
+#: meta_boxes/locations/post.php:86 meta_boxes/locations/post.php:209
+#: meta_boxes/locations/post.php:291 meta_boxes/locations/post.php:324
+msgid "Container"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4512 meta_boxes/locations/category.php:35
+#: meta_boxes/locations/category.php:44 meta_boxes/locations/category.php:54
+#: meta_boxes/locations/category.php:129 meta_boxes/locations/category.php:139
+#: meta_boxes/locations/category.php:150 meta_boxes/locations/post.php:87
+#: meta_boxes/locations/post.php:210 meta_boxes/locations/post.php:292
+#: meta_boxes/locations/post.php:325
+msgid "Container-Fluid"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4512 elementor/widgets/count_down.php:137
+#: functions/helper.php:519 meta_boxes/locations/category.php:45
+#: meta_boxes/locations/category.php:140
+msgid "Full"
+msgstr ""
+
+#: assets/js/gutenberg-blocks.js:4516 elementor/elements/column.php:851
+#: elementor/elements/column.php:899 elementor/elements/column.php:1039
+#: elementor/elements/column.php:1072 elementor/elements/column.php:1105
+#: elementor/elements/section.php:1780 elementor/elements/section.php:1827
+#: elementor/elements/section.php:1964 elementor/elements/section.php:1995
+#: elementor/elements/section.php:2026 elementor/elements/section.php:2705
+#: elementor/widgets/banner.php:459 elementor/widgets/banner.php:513
+#: elementor/widgets/banner.php:567 elementor/widgets/banner.php:1014
+#: elementor/widgets/blog.php:1318 elementor/widgets/blog.php:1365
+#: elementor/widgets/blog.php:1502 elementor/widgets/blog.php:1533
+#: elementor/widgets/blog.php:1564 elementor/widgets/button.php:401
+#: elementor/widgets/button.php:451 elementor/widgets/button.php:501
+#: elementor/widgets/custom-header/cart.php:390
+#: elementor/widgets/custom-header/currency_switcher.php:115
+#: elementor/widgets/custom-header/currency_switcher.php:157
+#: elementor/widgets/custom-header/currency_switcher.php:233
+#: elementor/widgets/custom-header/currency_switcher.php:329
+#: elementor/widgets/custom-header/currency_switcher.php:371
+#: elementor/widgets/custom-header/lang_switcher.php:115
+#: elementor/widgets/custom-header/lang_switcher.php:157
+#: elementor/widgets/custom-header/lang_switcher.php:233
+#: elementor/widgets/custom-header/lang_switcher.php:329
+#: elementor/widgets/custom-header/lang_switcher.php:371
+#: elementor/widgets/custom-header/mobile_toggle.php:141
+#: elementor/widgets/custom-header/mobile_toggle.php:183
+#: elementor/widgets/custom-header/wishlist.php:323
+#: elementor/widgets/custom-product/data_tab.php:132
+#: elementor/widgets/custom-product/data_tab.php:174
+#: elementor/widgets/custom-product/data_tab.php:216
+#: elementor/widgets/custom-product/share.php:97
+#: elementor/widgets/custom-product/share.php:136 elementor/widgets/hotspot.php:325
+#: elementor/widgets/hotspot.php:356 elementor/widgets/image_carousel.php:440
+#: elementor/widgets/image_carousel.php:487 elementor/widgets/image_carousel.php:625
+#: elementor/widgets/image_carousel.php:656 elementor/widgets/image_carousel.php:687
+#: elementor/widgets/nav_menu.php:348 elementor/widgets/nav_menu.php:392
+#: elementor/widgets/nav_menu.php:507 elementor/widgets/nav_menu.php:549
+#: elementor/widgets/nav_menu.php:660 elementor/widgets/nav_menu.php:702
+#: elementor/widgets/nav_menu.php:842 elementor/widgets/nav_menu.php:885
+#: elementor/widgets/product.php:1761 elementor/widgets/product.php:1840
+#: elementor/widgets/product.php:1879 elementor/widgets/product.php:1933
+#: elementor/widgets/product.php:1980 elementor/widgets/product.php:2058
+#: elementor/widgets/product.php:2097 elementor/widgets/product.php:2136
+#: elementor/widgets/product.php:2184 elementor/widgets/product.php:2262
+#: elementor/widgets/product.php:2301 elementor/widgets/product.php:2340
+#: elementor/widgets/product.php:2414 elementor/widgets/product.php:2444
+#: elementor/widgets/product.php:2474 elementor/widgets/product.php:2504
+#: elementor/widgets/product.php:2935 elementor/widgets/product.php:2982
+#: elementor/widgets/product.php:3119 elementor/widgets/product.php:3150
+#: elementor/widgets/product.php:3181 elementor/widgets/product_brand.php:465
+#: elementor/widgets/product_brand.php:512 elementor/widgets/product_brand.php:650
+#: elementor/widgets/product_brand.php:681 elementor/widgets/product_brand.php:712
+#: elementor/widgets/product_category.php:1035
+#: elementor/widgets/product_category.php:1356
+#: elementor/widgets/product_category.php:1404
+#: elementor/widgets/product_category.php:1689
+#: elementor/widgets/product_category.php:1737
+#: elementor/widgets/product_category.php:1875
+#: elementor/widgets/product_category.php:1906
+#: elementor/widgets/product_category.php:1937 elementor/widgets/testimonial.php:346
+msgid "Background Color"
+msgstr ""
+
+#: elementor/conditional/init.php:55
+msgid "Builder Conditionals"
+msgstr ""
+
+#: elementor/conditional/init.php:56
+msgid "Save & Close"
+msgstr ""
+
+#: elementor/conditional/init.php:57 elementor/conditional/init.php:254
+msgid "Add Condition"
+msgstr ""
+
+#: elementor/conditional/init.php:58
+#, php-format
+msgid "Where Do You Want to Display Your %s?"
+msgstr ""
+
+#: elementor/conditional/init.php:59
+#, php-format
+msgid ""
+"Set the conditions that determine where your %s is used throughout your site "
+"overriding global & local options."
+msgstr ""
+
+#: elementor/conditional/init.php:59
+msgid "For example, choose 'Entire Site' to display the template across your site."
+msgstr ""
+
+#: elementor/conditional/init.php:60
+msgid "s Archive"
+msgstr ""
+
+#: elementor/conditional/init.php:62 elementor/conditional/init.php:233
+msgid "On Page Load Within (sec)"
+msgstr ""
+
+#: elementor/conditional/init.php:63 elementor/conditional/init.php:243
+msgid "Width (%)"
+msgstr ""
+
+#: elementor/conditional/init.php:66 elementor/conditional/init.php:247
+msgid "Clone Condition"
+msgstr ""
+
+#: elementor/conditional/init.php:67 elementor/conditional/init.php:248
+msgid "Remove Condition"
+msgstr ""
+
+#: elementor/conditional/init.php:121
+msgid "Entire Site"
+msgstr ""
+
+#: elementor/conditional/init.php:126
+msgid "Archives"
+msgstr ""
+
+#: elementor/conditional/init.php:128
+msgid "All Archives"
+msgstr ""
+
+#: elementor/conditional/init.php:130
+msgid "Posts Archive"
+msgstr ""
+
+#: elementor/conditional/init.php:131
+msgid "Categories"
+msgstr ""
+
+#: elementor/conditional/init.php:132
+msgid "Tags"
+msgstr ""
+
+#: elementor/conditional/init.php:138 elementor/conditional/init.php:159
+msgid "Singular"
+msgstr ""
+
+#: elementor/conditional/init.php:140
+msgid "All Singular"
+msgstr ""
+
+#: elementor/conditional/init.php:141
+msgid "Front Page"
+msgstr ""
+
+#: elementor/conditional/init.php:142
+msgid "Error 404"
+msgstr ""
+
+#: elementor/conditional/init.php:144
+msgid "Posts"
+msgstr ""
+
+#: elementor/conditional/init.php:145 elementor/conditional/init.php:172
+msgid "In Category"
+msgstr ""
+
+#: elementor/conditional/init.php:146 elementor/conditional/init.php:173
+msgid "In Tag"
+msgstr ""
+
+#: elementor/conditional/init.php:149
+msgid "Pages"
+msgstr ""
+
+#: elementor/conditional/init.php:163
+msgid "All Product Archives"
+msgstr ""
+
+#: elementor/conditional/init.php:164
+msgid "Shop Page"
+msgstr ""
+
+#: elementor/conditional/init.php:165
+msgid "Product categories"
+msgstr ""
+
+#: elementor/conditional/init.php:166
+msgid "Product tags"
+msgstr ""
+
+#: elementor/conditional/init.php:171
+msgid "Products"
+msgstr ""
+
+#: elementor/conditional/init.php:194
+msgid "s"
+msgstr ""
+
+#: elementor/conditional/init.php:196
+msgid "Archive"
+msgstr ""
+
+#: elementor/conditional/init.php:202
+msgid "In "
+msgstr ""
+
+#: elementor/elements/column.php:23
+msgid "Molla Column Settings"
+msgstr ""
+
+#: elementor/elements/column.php:31 elementor/elements/section.php:363
+msgid "Use as"
+msgstr ""
+
+#: elementor/elements/column.php:36 elementor/widgets/banner.php:980
+msgid "Banner Layer"
+msgstr ""
+
+#: elementor/elements/column.php:37
+msgid "Tab Content"
+msgstr ""
+
+#: elementor/elements/column.php:38
+msgid "Accordion Content"
+msgstr ""
+
+#: elementor/elements/column.php:47 elementor/widgets/banner.php:1057
+#: elementor/widgets/product.php:874 elementor/widgets/product_category.php:520
+msgid "X Align"
+msgstr ""
+
+#: elementor/elements/column.php:64 elementor/widgets/banner.php:1070
+#: elementor/widgets/product.php:891 elementor/widgets/product_category.php:535
+msgid "Y Align"
+msgstr ""
+
+#: elementor/elements/column.php:286 elementor/elements/column.php:740
+#: elementor/elements/section.php:1669 elementor/init.php:329
+#: elementor/widgets/banner.php:77 elementor/widgets/banner.php:1287
+#: elementor/widgets/blog.php:1206
+#: elementor/widgets/custom-header/vertical_divider.php:75
+#: elementor/widgets/floating_image.php:128 elementor/widgets/image_carousel.php:332
+#: elementor/widgets/product.php:2683 elementor/widgets/product_brand.php:357
+#: elementor/widgets/product_category.php:1575
+msgid "Width"
+msgstr ""
+
+#: elementor/elements/column.php:316 elementor/elements/column.php:763
+#: elementor/elements/section.php:1692 elementor/init.php:354
+#: elementor/widgets/banner.php:772 elementor/widgets/banner.php:1315
+#: elementor/widgets/blog.php:1229
+#: elementor/widgets/custom-header/vertical_divider.php:63
+#: elementor/widgets/floating_image.php:186 elementor/widgets/heading.php:425
+#: elementor/widgets/image_carousel.php:355 elementor/widgets/nav_menu.php:129
+#: elementor/widgets/product.php:2706 elementor/widgets/product_brand.php:380
+#: elementor/widgets/product_category.php:1599
+msgid "Height"
+msgstr ""
+
+#: elementor/elements/column.php:385
+msgid "Grid Item Width (%)"
+msgstr ""
+
+#: elementor/elements/column.php:396
+msgid "Grid Item Height"
+msgstr ""
+
+#: elementor/elements/column.php:408
+msgid "Depending on Children"
+msgstr ""
+
+#: elementor/elements/column.php:409
+msgid "Use From Preset"
+msgstr ""
+
+#: elementor/elements/column.php:418
+msgid "Grid Item Order"
+msgstr ""
+
+#: elementor/elements/column.php:441
+msgid "Grid Item Category"
+msgstr ""
+
+#: elementor/elements/column.php:449 elementor/elements/section.php:380
+#: elementor/widgets/image_carousel.php:145 elementor/widgets/product_brand.php:190
+msgid "Vertical Align"
+msgstr ""
+
+#: elementor/elements/column.php:454 elementor/elements/section.php:385
+#: elementor/init.php:413 elementor/init.php:440 elementor/init.php:503
+#: elementor/widgets/image_carousel.php:150 elementor/widgets/product_brand.php:195
+msgid "Middle"
+msgstr ""
+
+#: elementor/elements/column.php:456 elementor/elements/section.php:387
+msgid "Stretch"
+msgstr ""
+
+#: elementor/elements/column.php:470 elementor/elements/section.php:401
+#: elementor/widgets/blog.php:219 elementor/widgets/product.php:331
+#: elementor/widgets/product_category.php:285
+msgid "Columns Upper Desktop ( >= 1200px )"
+msgstr ""
+
+#: elementor/elements/column.php:515 elementor/widgets/custom-product/image.php:98
+#: elementor/widgets/custom-product/linked_products.php:225
+msgid "Columns Under Mobile"
+msgstr ""
+
+#: elementor/elements/column.php:601 elementor/elements/section.php:533
+#: elementor/widgets/blog.php:322
+#: elementor/widgets/custom-product/linked_products.php:286
+#: elementor/widgets/image_carousel.php:237 elementor/widgets/product.php:451
+#: elementor/widgets/product_brand.php:282 elementor/widgets/product_category.php:388
+msgid "Enable Navigation Auto Hide"
+msgstr ""
+
+#: elementor/elements/column.php:637 elementor/elements/section.php:568
+#: elementor/widgets/blog.php:356 elementor/widgets/image_carousel.php:263
+#: elementor/widgets/product.php:485 elementor/widgets/product_brand.php:308
+#: elementor/widgets/product_category.php:421
+msgid "Enable Auto-Play"
+msgstr ""
+
+#: elementor/elements/column.php:649 elementor/elements/section.php:580
+#: elementor/widgets/blog.php:368 elementor/widgets/image_carousel.php:272
+#: elementor/widgets/product.php:497 elementor/widgets/product_brand.php:317
+#: elementor/widgets/product_category.php:433
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elementor/elements/column.php:662 elementor/elements/section.php:593
+#: elementor/widgets/image_carousel.php:284 elementor/widgets/product_brand.php:329
+msgid "Enable Auto-height"
+msgstr ""
+
+#: elementor/elements/column.php:674 elementor/elements/section.php:629
+#: elementor/widgets/image_carousel.php:293
+msgid "Animation In"
+msgstr ""
+
+#: elementor/elements/column.php:687 elementor/elements/section.php:642
+#: elementor/widgets/image_carousel.php:303
+msgid "Animation Out"
+msgstr ""
+
+#: elementor/elements/column.php:713 elementor/elements/section.php:1642
+#: elementor/widgets/blog.php:1179 elementor/widgets/image_carousel.php:323
+#: elementor/widgets/product.php:2656 elementor/widgets/product_brand.php:348
+#: elementor/widgets/product_category.php:1548
+msgid "Nav Options"
+msgstr ""
+
+#: elementor/elements/column.php:722 elementor/elements/section.php:1651
+#: elementor/widgets/blog.php:1188 elementor/widgets/product.php:2665
+#: elementor/widgets/product_category.php:1557
+msgid "Font Size"
+msgstr ""
+
+#: elementor/elements/column.php:785 elementor/elements/section.php:1714
+#: elementor/elements/section.php:2607 elementor/widgets/banner.php:611
+#: elementor/widgets/blog.php:1251 elementor/widgets/button.php:340
+#: elementor/widgets/custom-header/currency_switcher.php:84
+#: elementor/widgets/custom-header/currency_switcher.php:298
+#: elementor/widgets/custom-header/lang_switcher.php:84
+#: elementor/widgets/custom-header/lang_switcher.php:298
+#: elementor/widgets/custom-header/mobile_toggle.php:110
+#: elementor/widgets/custom-header/search.php:156
+#: elementor/widgets/custom-header/search.php:237
+#: elementor/widgets/custom-header/search.php:309
+#: elementor/widgets/floating_image.php:352 elementor/widgets/hotspot.php:289
+#: elementor/widgets/image_carousel.php:377 elementor/widgets/nav_menu.php:317
+#: elementor/widgets/nav_menu.php:476 elementor/widgets/nav_menu.php:629
+#: elementor/widgets/nav_menu.php:811 elementor/widgets/product.php:1898
+#: elementor/widgets/product.php:2728 elementor/widgets/product_brand.php:402
+#: elementor/widgets/product_category.php:1622 elementor/widgets/testimonial.php:413
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/elements/column.php:943 elementor/elements/section.php:1869
+#: elementor/widgets/blog.php:1407 elementor/widgets/image_carousel.php:529
+#: elementor/widgets/product.php:3024 elementor/widgets/product_brand.php:554
+#: elementor/widgets/product_category.php:1780
+msgid "Dot Options"
+msgstr ""
+
+#: elementor/elements/column.php:952 elementor/elements/section.php:1878
+#: elementor/widgets/blog.php:1416 elementor/widgets/image_carousel.php:538
+#: elementor/widgets/product.php:3033 elementor/widgets/product_brand.php:563
+#: elementor/widgets/product_category.php:1789
+msgid "Position Vertical"
+msgstr ""
+
+#: elementor/elements/column.php:982 elementor/elements/section.php:1908
+#: elementor/widgets/blog.php:1446 elementor/widgets/image_carousel.php:568
+#: elementor/widgets/product.php:3063 elementor/widgets/product_brand.php:593
+#: elementor/widgets/product_category.php:1819
+msgid "Position Horizontal"
+msgstr ""
+
+#: elementor/elements/column.php:1051 elementor/elements/column.php:1084
+#: elementor/elements/column.php:1117 elementor/elements/section.php:1975
+#: elementor/elements/section.php:2006 elementor/elements/section.php:2037
+#: elementor/elements/section.php:2252 elementor/elements/section.php:2296
+#: elementor/elements/section.php:2340 elementor/elements/section.php:2390
+#: elementor/widgets/banner.php:473 elementor/widgets/banner.php:527
+#: elementor/widgets/banner.php:581 elementor/widgets/blog.php:1513
+#: elementor/widgets/blog.php:1544 elementor/widgets/blog.php:1575
+#: elementor/widgets/button.php:412 elementor/widgets/button.php:462
+#: elementor/widgets/button.php:512
+#: elementor/widgets/custom-header/currency_switcher.php:126
+#: elementor/widgets/custom-header/currency_switcher.php:168
+#: elementor/widgets/custom-header/currency_switcher.php:340
+#: elementor/widgets/custom-header/currency_switcher.php:382
+#: elementor/widgets/custom-header/lang_switcher.php:126
+#: elementor/widgets/custom-header/lang_switcher.php:168
+#: elementor/widgets/custom-header/lang_switcher.php:340
+#: elementor/widgets/custom-header/lang_switcher.php:382
+#: elementor/widgets/custom-header/mobile_toggle.php:152
+#: elementor/widgets/custom-header/mobile_toggle.php:194
+#: elementor/widgets/custom-header/search.php:251
+#: elementor/widgets/custom-header/search.php:351
+#: elementor/widgets/custom-header/search.php:393
+#: elementor/widgets/image_carousel.php:636 elementor/widgets/image_carousel.php:667
+#: elementor/widgets/image_carousel.php:698 elementor/widgets/nav_menu.php:359
+#: elementor/widgets/nav_menu.php:405 elementor/widgets/nav_menu.php:518
+#: elementor/widgets/nav_menu.php:560 elementor/widgets/nav_menu.php:671
+#: elementor/widgets/nav_menu.php:713 elementor/widgets/nav_menu.php:853
+#: elementor/widgets/nav_menu.php:897 elementor/widgets/nav_menu.php:961
+#: elementor/widgets/product.php:3130 elementor/widgets/product.php:3161
+#: elementor/widgets/product.php:3192 elementor/widgets/product_brand.php:661
+#: elementor/widgets/product_brand.php:692 elementor/widgets/product_brand.php:723
+#: elementor/widgets/product_category.php:1345
+#: elementor/widgets/product_category.php:1393
+#: elementor/widgets/product_category.php:1886
+#: elementor/widgets/product_category.php:1917
+#: elementor/widgets/product_category.php:1948
+msgid "Border Color"
+msgstr ""
+
+#: elementor/elements/column.php:1098 elementor/elements/section.php:2019
+#: elementor/elements/section.php:2311 elementor/elements/section.php:2511
+#: elementor/widgets/banner.php:543 elementor/widgets/blog.php:1038
+#: elementor/widgets/blog.php:1557 elementor/widgets/button.php:483
+#: elementor/widgets/custom-product/data_tab.php:196
+#: elementor/widgets/image_carousel.php:680 elementor/widgets/product.php:2157
+#: elementor/widgets/product.php:3174 elementor/widgets/product_brand.php:705
+#: elementor/widgets/product_category.php:1930
+msgid "Active"
+msgstr ""
+
+#: elementor/elements/section.php:222
+msgid "Molla Section Settings"
+msgstr ""
+
+#: elementor/elements/section.php:230
+#: elementor/widgets/custom-header/responsive_group.php:65
+msgid "General"
+msgstr ""
+
+#: elementor/elements/section.php:238
+msgid "Wrap with Container"
+msgstr ""
+
+#: elementor/elements/section.php:250
+msgid "Wrap with Container-Fluid"
+msgstr ""
+
+#: elementor/elements/section.php:262
+msgid "Enable Scrollable Section"
+msgstr ""
+
+#: elementor/elements/section.php:270
+msgid "Tooltip Text"
+msgstr ""
+
+#: elementor/elements/section.php:272
+msgid "Please input tooltip text here..."
+msgstr ""
+
+#: elementor/elements/section.php:283
+msgid "Parallax Section"
+msgstr ""
+
+#: elementor/elements/section.php:285
+msgid ""
+"Section content's sticky in bottom of parent until it remains in viewport. You can "
+"set this option in top section generally."
+msgstr ""
+
+#: elementor/elements/section.php:292 elementor/elements/section.php:793
+#: elementor/elements/section.php:1554 elementor/widgets/floating_image.php:100
+msgid "Speed"
+msgstr ""
+
+#: elementor/elements/section.php:314
+msgid "Sticky Section"
+msgstr ""
+
+#: elementor/elements/section.php:321
+msgid "Sticky Padding"
+msgstr ""
+
+#: elementor/elements/section.php:338
+msgid "Sticky Background"
+msgstr ""
+
+#: elementor/elements/section.php:354
+msgid "Section Usage"
+msgstr ""
+
+#: elementor/elements/section.php:368
+msgid "Creative"
+msgstr ""
+
+#: elementor/elements/section.php:370
+msgid "Banner"
+msgstr ""
+
+#: elementor/elements/section.php:371 elementor/elements/section.php:2053
+#: elementor/widgets/custom-product/data_tab.php:65 meta_boxes/locations/product.php:56
+msgid "Tab"
+msgstr ""
+
+#: elementor/elements/section.php:372 elementor/elements/section.php:2359
+#: elementor/widgets/custom-product/data_tab.php:66 meta_boxes/locations/product.php:57
+msgid "Accordion"
+msgstr ""
+
+#: elementor/elements/section.php:446 elementor/widgets/blog.php:261
+#: elementor/widgets/product.php:377 elementor/widgets/product_category.php:327
+msgid "Columns Under Mobile ( <= 575px )"
+msgstr ""
+
+#: elementor/elements/section.php:605 elementor/widgets/blog.php:381
+#: elementor/widgets/product.php:510 elementor/widgets/product_category.php:446
+#: meta_boxes/locations/product.php:41
+msgid "Enable Center Mode"
+msgstr ""
+
+#: elementor/elements/section.php:617
+msgid "Set equal heights"
+msgstr ""
+
+#: elementor/elements/section.php:656 elementor/widgets/nav_menu.php:115
+msgid "Hover Effect"
+msgstr ""
+
+#: elementor/elements/section.php:660 elementor/widgets/nav_menu.php:119
+msgid "No Effect"
+msgstr ""
+
+#: elementor/elements/section.php:661 elementor/elements/section.php:843
+msgid "Effect 1"
+msgstr ""
+
+#: elementor/elements/section.php:662 elementor/elements/section.php:844
+msgid "Effect 2"
+msgstr ""
+
+#: elementor/elements/section.php:684 elementor/widgets/banner.php:818
+msgid "Min Height"
+msgstr ""
+
+#: elementor/elements/section.php:715 elementor/widgets/banner.php:791
+msgid "Max Height"
+msgstr ""
+
+#: elementor/elements/section.php:746 elementor/widgets/banner.php:923
+msgid "Image Position (%)"
+msgstr ""
+
+#: elementor/elements/section.php:814 elementor/elements/section.php:2569
+msgid "Video"
+msgstr ""
+
+#: elementor/elements/section.php:826
+msgid "Enable Video"
+msgstr ""
+
+#: elementor/elements/section.php:839
+msgid "Nav Effect"
+msgstr ""
+
+#: elementor/elements/section.php:845
+msgid "custom"
+msgstr ""
+
+#: elementor/elements/section.php:856
+msgid "Tab Type"
+msgstr ""
+
+#: elementor/elements/section.php:873 elementor/elements/section.php:1062
+msgid "Nav Align"
+msgstr ""
+
+#: elementor/elements/section.php:933 elementor/widgets/nav_menu.php:237
+msgid "Active Icon"
+msgstr ""
+
+#: elementor/elements/section.php:996
+msgid "Grid Mobile Height (%)"
+msgstr ""
+
+#: elementor/elements/section.php:1017
+msgid "Use Float Grid"
+msgstr ""
+
+#: elementor/elements/section.php:1018
+msgid ""
+"The Layout will be built with only float style not using isotope plugin. This is very "
+"useful for simple creative layouts."
+msgstr ""
+
+#: elementor/elements/section.php:1029
+msgid "Enable Filtering"
+msgstr ""
+
+#: elementor/elements/section.php:1040 elementor/widgets/floating_image.php:314
+#: elementor/widgets/product_category.php:1421
+msgid "Transition Duration"
+msgstr ""
+
+#: elementor/elements/section.php:1095
+msgid "Molla Video Options"
+msgstr ""
+
+#: elementor/elements/section.php:1106
+msgid "Source"
+msgstr ""
+
+#: elementor/elements/section.php:1110
+msgid "YouTube"
+msgstr ""
+
+#: elementor/elements/section.php:1111 elementor/widgets/lightbox.php:71
+#: widgets/follow_us.php:217
+msgid "Vimeo"
+msgstr ""
+
+#: elementor/elements/section.php:1112
+msgid "Dailymotion"
+msgstr ""
+
+#: elementor/elements/section.php:1113
+msgid "Self Hosted"
+msgstr ""
+
+#: elementor/elements/section.php:1130 elementor/elements/section.php:1151
+#: elementor/elements/section.php:1172 elementor/elements/section.php:1228
+#: elementor/widgets/lightbox.php:81 elementor/widgets/lightbox.php:95
+msgid "Enter your URL"
+msgstr ""
+
+#: elementor/elements/section.php:1184
+msgid "External URL"
+msgstr ""
+
+#: elementor/elements/section.php:1195
+msgid "Choose File"
+msgstr ""
+
+#: elementor/elements/section.php:1214
+msgid "URL"
+msgstr ""
+
+#: elementor/elements/section.php:1239
+msgid "Start Time"
+msgstr ""
+
+#: elementor/elements/section.php:1241
+msgid "Specify a start time (in seconds)"
+msgstr ""
+
+#: elementor/elements/section.php:1251
+msgid "End Time"
+msgstr ""
+
+#: elementor/elements/section.php:1253
+msgid "Specify an end time (in seconds)"
+msgstr ""
+
+#: elementor/elements/section.php:1264
+msgid "Use video as background style"
+msgstr ""
+
+#: elementor/elements/section.php:1266
+msgid "Video size will be adjusted according to it's content size."
+msgstr ""
+
+#: elementor/elements/section.php:1273
+msgid "Min Height (px)"
+msgstr ""
+
+#: elementor/elements/section.php:1288
+msgid "Video Options"
+msgstr ""
+
+#: elementor/elements/section.php:1297
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/elements/section.php:1306
+msgid "Play on Mobile"
+msgstr ""
+
+#: elementor/elements/section.php:1317
+msgid "Mute"
+msgstr ""
+
+#: elementor/elements/section.php:1325
+msgid "Loop"
+msgstr ""
+
+#: elementor/elements/section.php:1336
+msgid "Player Controls"
+msgstr ""
+
+#: elementor/elements/section.php:1338 elementor/elements/section.php:1352
+#: elementor/elements/section.php:1378 elementor/elements/section.php:1433
+#: elementor/elements/section.php:1447 elementor/elements/section.php:1461
+#: elementor/elements/section.php:1475 elementor/elements/section.php:1517
+#: elementor/widgets/custom-product/cart_form.php:108 elementor/widgets/product.php:279
+#: meta_boxes/locations/post.php:31 meta_boxes/locations/post.php:74
+#: meta_boxes/locations/post.php:99 meta_boxes/locations/post.php:181
+#: meta_boxes/locations/post.php:314
+msgid "Hide"
+msgstr ""
+
+#: elementor/elements/section.php:1339 elementor/elements/section.php:1353
+#: elementor/elements/section.php:1379 elementor/elements/section.php:1434
+#: elementor/elements/section.php:1448 elementor/elements/section.php:1462
+#: elementor/elements/section.php:1476 elementor/elements/section.php:1518
+#: elementor/widgets/custom-product/cart_form.php:107 meta_boxes/locations/post.php:30
+#: meta_boxes/locations/post.php:73 meta_boxes/locations/post.php:98
+#: meta_boxes/locations/post.php:180 meta_boxes/locations/post.php:313
+msgid "Show"
+msgstr ""
+
+#: elementor/elements/section.php:1350
+msgid "Video Info"
+msgstr ""
+
+#: elementor/elements/section.php:1364
+msgid "Modest Branding"
+msgstr ""
+
+#: elementor/elements/section.php:1376
+msgid "Logo"
+msgstr ""
+
+#: elementor/elements/section.php:1390
+msgid "Controls Color"
+msgstr ""
+
+#: elementor/elements/section.php:1403
+msgid "Privacy Mode"
+msgstr ""
+
+#: elementor/elements/section.php:1405
+msgid ""
+"When you turn on privacy mode, YouTube won't store information about visitors on your "
+"website unless they play the video."
+msgstr ""
+
+#: elementor/elements/section.php:1415
+msgid "Suggested Videos"
+msgstr ""
+
+#: elementor/elements/section.php:1418
+msgid "Current Video Channel"
+msgstr ""
+
+#: elementor/elements/section.php:1419
+msgid "Any Video"
+msgstr ""
+
+#: elementor/elements/section.php:1431
+msgid "Intro Title"
+msgstr ""
+
+#: elementor/elements/section.php:1445
+msgid "Intro Portrait"
+msgstr ""
+
+#: elementor/elements/section.php:1459
+msgid "Intro Byline"
+msgstr ""
+
+#: elementor/elements/section.php:1473
+msgid "Download Button"
+msgstr ""
+
+#: elementor/elements/section.php:1486
+msgid "Poster"
+msgstr ""
+
+#: elementor/elements/section.php:1506 elementor/elements/section.php:1515
+msgid "Image Overlay"
+msgstr ""
+
+#: elementor/elements/section.php:1525 elementor/widgets/banner.php:623
+msgid "Choose Image"
+msgstr ""
+
+#: elementor/elements/section.php:1576
+msgid "Lazy Load"
+msgstr ""
+
+#: elementor/elements/section.php:1600 elementor/elements/section.php:2623
+msgid "Play Icon"
+msgstr ""
+
+#: elementor/elements/section.php:1613 elementor/elements/section.php:2691
+msgid "Lightbox"
+msgstr ""
+
+#: elementor/elements/section.php:1616 elementor/widgets/banner.php:335
+#: elementor/widgets/button.php:189 elementor/widgets/button.php:281
+#: meta_boxes/locations/product.php:46
+msgid "Off"
+msgstr ""
+
+#: elementor/elements/section.php:1617 elementor/widgets/banner.php:331
+#: elementor/widgets/button.php:185 elementor/widgets/button.php:282
+#: meta_boxes/locations/product.php:45
+msgid "On"
+msgstr ""
+
+#: elementor/elements/section.php:2064
+msgid "Tab Border Width (px)"
+msgstr ""
+
+#: elementor/elements/section.php:2091
+msgid "Tab Border Radius (px)"
+msgstr ""
+
+#: elementor/elements/section.php:2112
+msgid "Tab Border Color"
+msgstr ""
+
+#: elementor/elements/section.php:2129
+msgid "Tab Content Padding"
+msgstr ""
+
+#: elementor/elements/section.php:2147
+msgid "Nav"
+msgstr ""
+
+#: elementor/elements/section.php:2161
+msgid "Nav Margin"
+msgstr ""
+
+#: elementor/elements/section.php:2176
+msgid "Nav Padding"
+msgstr ""
+
+#: elementor/elements/section.php:2197
+msgid "Nav Spacing (px)"
+msgstr ""
+
+#: elementor/elements/section.php:2213
+msgid "Nav Typography"
+msgstr ""
+
+#: elementor/elements/section.php:2230 elementor/elements/section.php:2274
+#: elementor/elements/section.php:2318
+msgid "Nav Background Color"
+msgstr ""
+
+#: elementor/elements/section.php:2241 elementor/elements/section.php:2285
+#: elementor/elements/section.php:2329
+msgid "Nav Color"
+msgstr ""
+
+#: elementor/elements/section.php:2370 elementor/widgets/banner.php:599
+#: elementor/widgets/button.php:356
+#: elementor/widgets/custom-header/currency_switcher.php:72
+#: elementor/widgets/custom-header/currency_switcher.php:286
+#: elementor/widgets/custom-header/lang_switcher.php:72
+#: elementor/widgets/custom-header/lang_switcher.php:286
+#: elementor/widgets/custom-header/mobile_toggle.php:98
+#: elementor/widgets/custom-header/search.php:223
+#: elementor/widgets/custom-header/search.php:297 elementor/widgets/nav_menu.php:306
+#: elementor/widgets/nav_menu.php:464 elementor/widgets/nav_menu.php:617
+#: elementor/widgets/nav_menu.php:799 elementor/widgets/product_category.php:1310
+msgid "Border Width"
+msgstr ""
+
+#: elementor/elements/section.php:2403
+msgid "Panel Content Padding"
+msgstr ""
+
+#: elementor/elements/section.php:2418
+msgid "Panel Header Padding"
+msgstr ""
+
+#: elementor/elements/section.php:2435
+msgid "Panel Header Typography"
+msgstr ""
+
+#: elementor/elements/section.php:2452 elementor/elements/section.php:2485
+#: elementor/elements/section.php:2518
+msgid "Header Background Color"
+msgstr ""
+
+#: elementor/elements/section.php:2464 elementor/elements/section.php:2497
+#: elementor/elements/section.php:2530
+msgid "Header Color"
+msgstr ""
+
+#: elementor/elements/section.php:2548
+msgid "Header Icon Typography"
+msgstr ""
+
+#: elementor/elements/section.php:2556
+msgid "Header Icon Space"
+msgstr ""
+
+#: elementor/elements/section.php:2580
+msgid "Aspect Ratio"
+msgstr ""
+
+#: elementor/elements/section.php:2676
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr ""
+
+#: elementor/elements/section.php:2716
+msgid "UI Color"
+msgstr ""
+
+#: elementor/elements/section.php:2727
+msgid "UI Hover Color"
+msgstr ""
+
+#: elementor/elements/section.php:2739 meta_boxes/locations/post.php:110
+msgid "Content Width"
+msgstr ""
+
+#: elementor/elements/section.php:2758 elementor/init.php:394
+msgid "Content Position"
+msgstr ""
+
+#: elementor/elements/section.php:2777 elementor/widgets/banner.php:676
+#: elementor/widgets/banner.php:1342
+msgid "Entrance Animation"
+msgstr ""
+
+#: elementor/elements/section.php:3619
+msgid "Play Video"
+msgstr ""
+
+#: elementor/init.php:20 elementor/init.php:70
+msgid "Default Animation"
+msgstr ""
+
+#: elementor/init.php:21
+msgid "Bounce"
+msgstr ""
+
+#: elementor/init.php:22
+msgid "Flash"
+msgstr ""
+
+#: elementor/init.php:23
+msgid "Pulse"
+msgstr ""
+
+#: elementor/init.php:24
+msgid "RubberBand"
+msgstr ""
+
+#: elementor/init.php:25
+msgid "Shake"
+msgstr ""
+
+#: elementor/init.php:26
+msgid "HeadShake"
+msgstr ""
+
+#: elementor/init.php:27
+msgid "Swing"
+msgstr ""
+
+#: elementor/init.php:28
+msgid "Tada"
+msgstr ""
+
+#: elementor/init.php:29
+msgid "Wobble"
+msgstr ""
+
+#: elementor/init.php:30
+msgid "Jello"
+msgstr ""
+
+#: elementor/init.php:31
+msgid "HearBeat"
+msgstr ""
+
+#: elementor/init.php:32 elementor/init.php:866
+msgid "BlurIn"
+msgstr ""
+
+#: elementor/init.php:33
+msgid "BounceIn"
+msgstr ""
+
+#: elementor/init.php:34
+msgid "BounceInUp"
+msgstr ""
+
+#: elementor/init.php:35
+msgid "BounceInDown"
+msgstr ""
+
+#: elementor/init.php:36
+msgid "BounceInLeft"
+msgstr ""
+
+#: elementor/init.php:37
+msgid "BounceInRight"
+msgstr ""
+
+#: elementor/init.php:38 elementor/widgets/custom-product/linked_products.php:625
+#: elementor/widgets/product.php:1138
+msgid "FadeIn"
+msgstr ""
+
+#: elementor/init.php:39 elementor/widgets/custom-product/linked_products.php:627
+#: elementor/widgets/product.php:1140
+msgid "FadeInUp"
+msgstr ""
+
+#: elementor/init.php:40
+msgid "FadeInUpBig"
+msgstr ""
+
+#: elementor/init.php:41
+msgid "FadeInDown"
+msgstr ""
+
+#: elementor/init.php:42
+msgid "FadeInDownBig"
+msgstr ""
+
+#: elementor/init.php:43 elementor/widgets/custom-product/linked_products.php:626
+#: elementor/widgets/product.php:1139
+msgid "FadeInLeft"
+msgstr ""
+
+#: elementor/init.php:44
+msgid "FadeInLeftBig"
+msgstr ""
+
+#: elementor/init.php:45
+msgid "FadeInRight"
+msgstr ""
+
+#: elementor/init.php:46
+msgid "FadeInRightBig"
+msgstr ""
+
+#: elementor/init.php:47 elementor/init.php:861
+msgid "Flip"
+msgstr ""
+
+#: elementor/init.php:48 elementor/init.php:862
+msgid "FlipInX"
+msgstr ""
+
+#: elementor/init.php:49 elementor/init.php:863
+msgid "FlipInY"
+msgstr ""
+
+#: elementor/init.php:50
+msgid "LightSpeedIn"
+msgstr ""
+
+#: elementor/init.php:51
+msgid "RotateIn"
+msgstr ""
+
+#: elementor/init.php:52
+msgid "RotateInUpLeft"
+msgstr ""
+
+#: elementor/init.php:53
+msgid "RotateInUpRight"
+msgstr ""
+
+#: elementor/init.php:54
+msgid "RotateInDownLeft"
+msgstr ""
+
+#: elementor/init.php:55
+msgid "RotateInDownRight"
+msgstr ""
+
+#: elementor/init.php:56
+msgid "Hinge"
+msgstr ""
+
+#: elementor/init.php:57
+msgid "JackInTheBox"
+msgstr ""
+
+#: elementor/init.php:58
+msgid "RollIn"
+msgstr ""
+
+#: elementor/init.php:59
+msgid "ZoomIn"
+msgstr ""
+
+#: elementor/init.php:60
+msgid "ZoomInUp"
+msgstr ""
+
+#: elementor/init.php:61
+msgid "ZoomInDown"
+msgstr ""
+
+#: elementor/init.php:62
+msgid "ZoomInLeft"
+msgstr ""
+
+#: elementor/init.php:63
+msgid "ZoomInRight"
+msgstr ""
+
+#: elementor/init.php:64
+msgid "SlideInUp"
+msgstr ""
+
+#: elementor/init.php:65
+msgid "SlideInDown"
+msgstr ""
+
+#: elementor/init.php:66
+msgid "SlideInLeft"
+msgstr ""
+
+#: elementor/init.php:67
+msgid "SlideInRight"
+msgstr ""
+
+#: elementor/init.php:71
+msgid "BlurOut"
+msgstr ""
+
+#: elementor/init.php:72
+msgid "BounceOut"
+msgstr ""
+
+#: elementor/init.php:73
+msgid "BounceOutUp"
+msgstr ""
+
+#: elementor/init.php:74
+msgid "BounceOutDown"
+msgstr ""
+
+#: elementor/init.php:75
+msgid "BounceOutLeft"
+msgstr ""
+
+#: elementor/init.php:76
+msgid "BounceOutRight"
+msgstr ""
+
+#: elementor/init.php:77
+msgid "FadeOut"
+msgstr ""
+
+#: elementor/init.php:78
+msgid "FadeOutUp"
+msgstr ""
+
+#: elementor/init.php:79
+msgid "FadeOutUpBig"
+msgstr ""
+
+#: elementor/init.php:80
+msgid "FadeOutDown"
+msgstr ""
+
+#: elementor/init.php:81
+msgid "FadeOutDownBig"
+msgstr ""
+
+#: elementor/init.php:82
+msgid "FadeOutLeft"
+msgstr ""
+
+#: elementor/init.php:83
+msgid "FadeOutLeftBig"
+msgstr ""
+
+#: elementor/init.php:84
+msgid "FadeOutRight"
+msgstr ""
+
+#: elementor/init.php:85
+msgid "FadeOutRightBig"
+msgstr ""
+
+#: elementor/init.php:86
+msgid "FlipOutX"
+msgstr ""
+
+#: elementor/init.php:87
+msgid "FlipOutY"
+msgstr ""
+
+#: elementor/init.php:88
+msgid "LightSpeedOut"
+msgstr ""
+
+#: elementor/init.php:89
+msgid "RotateOutUpLeft"
+msgstr ""
+
+#: elementor/init.php:90
+msgid "RotateOutUpRight"
+msgstr ""
+
+#: elementor/init.php:91
+msgid "RotateOutDownLeft"
+msgstr ""
+
+#: elementor/init.php:92
+msgid "RotateOutDownRight"
+msgstr ""
+
+#: elementor/init.php:93
+msgid "RollOut"
+msgstr ""
+
+#: elementor/init.php:94
+msgid "ZoomOut"
+msgstr ""
+
+#: elementor/init.php:95
+msgid "ZoomOutUp"
+msgstr ""
+
+#: elementor/init.php:96
+msgid "ZoomOutDown"
+msgstr ""
+
+#: elementor/init.php:97
+msgid "ZoomOutLeft"
+msgstr ""
+
+#: elementor/init.php:98
+msgid "ZoomOutRight"
+msgstr ""
+
+#: elementor/init.php:99
+msgid "SlideOutUp"
+msgstr ""
+
+#: elementor/init.php:100
+msgid "SlideOutDown"
+msgstr ""
+
+#: elementor/init.php:101
+msgid "SlideOutLeft"
+msgstr ""
+
+#: elementor/init.php:102
+msgid "SlideOutRight"
+msgstr ""
+
+#: elementor/init.php:170 gutenberg/init.php:56
+msgid "Molla"
+msgstr ""
+
+#: elementor/init.php:183
+msgid "Molla - Product Layout"
+msgstr ""
+
+#: elementor/init.php:192
+msgid "Molla - Header"
+msgstr ""
+
+#: elementor/init.php:201
+msgid "Molla - Footer"
+msgstr ""
+
+#: elementor/init.php:321
+msgid "Molla Popup Settings"
+msgstr ""
+
+#: elementor/init.php:357
+msgid "Fit To Content"
+msgstr ""
+
+#: elementor/init.php:366
+msgid "Custom Height"
+msgstr ""
+
+#: elementor/init.php:529 elementor/widgets/banner.php:900
+msgid "Overlay Color"
+msgstr ""
+
+#: elementor/init.php:540
+msgid "Content Color"
+msgstr ""
+
+#: elementor/init.php:562 elementor/widgets/lightbox.php:146
+msgid "Popup Animation"
+msgstr ""
+
+#: elementor/init.php:574
+msgid "Molla Custom Settings"
+msgstr ""
+
+#: elementor/init.php:584 meta_boxes/locations/post.php:333
+msgid "Custom CSS"
+msgstr ""
+
+#: elementor/init.php:593 meta_boxes/locations/post.php:340
+msgid "Custom JS Code"
+msgstr ""
+
+#: elementor/init.php:846
+msgid "Molla Icons"
+msgstr ""
+
+#: elementor/widgets/banner.php:29
+msgid "Molla Banner"
+msgstr ""
+
+#: elementor/widgets/banner.php:54
+#: elementor/widgets/custom-header/responsive_group.php:141
+#: elementor/widgets/custom-header/responsive_group.php:472
+msgid "Items"
+msgstr ""
+
+#: elementor/widgets/banner.php:69 elementor/widgets/floating_image.php:61
+#: elementor/widgets/floating_image.php:120
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/banner.php:82 elementor/widgets/count_down.php:113
+#: elementor/widgets/custom-product/countdown.php:63 meta_boxes/locations/product.php:68
+msgid "Inline"
+msgstr ""
+
+#: elementor/widgets/banner.php:98
+#: elementor/widgets/custom-header/currency_switcher.php:274
+#: elementor/widgets/custom-header/lang_switcher.php:274
+#: elementor/widgets/custom-header/responsive_group.php:445
+#: elementor/widgets/nav_menu.php:434 elementor/widgets/nav_menu.php:587
+#: elementor/widgets/nav_menu.php:740 elementor/widgets/product_category.php:951
+#: elementor/widgets/product_category.php:995
+#: elementor/widgets/product_category.php:1065
+#: elementor/widgets/product_category.php:1132
+#: elementor/widgets/product_category.php:1180
+#: elementor/widgets/product_category.php:1280 elementor/widgets/testimonial.php:389
+#: elementor/widgets/testimonial.php:455 elementor/widgets/testimonial.php:517
+#: elementor/widgets/testimonial.php:563 elementor/widgets/testimonial.php:609
+#: elementor/widgets/testimonial.php:663 elementor/widgets/testimonial.php:736
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/banner.php:122 elementor/widgets/product.php:1168
+msgid "Tag"
+msgstr ""
+
+#: elementor/widgets/banner.php:133
+msgid "div"
+msgstr ""
+
+#: elementor/widgets/banner.php:221
+msgid "Button Padding"
+msgstr ""
+
+#: elementor/widgets/banner.php:272 elementor/widgets/button.php:133
+msgid "Skin"
+msgstr ""
+
+#: elementor/widgets/banner.php:276 elementor/widgets/button.php:137
+msgid "Primary"
+msgstr ""
+
+#: elementor/widgets/banner.php:277 elementor/widgets/button.php:138
+msgid "Secondary"
+msgstr ""
+
+#: elementor/widgets/banner.php:278 elementor/widgets/button.php:139
+msgid "Alert"
+msgstr ""
+
+#: elementor/widgets/banner.php:292 elementor/widgets/button.php:150
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor/widgets/banner.php:296 elementor/widgets/button.php:154
+msgid "Shadow 1"
+msgstr ""
+
+#: elementor/widgets/banner.php:297 elementor/widgets/button.php:155
+msgid "Shadow 2"
+msgstr ""
+
+#: elementor/widgets/banner.php:308 elementor/widgets/button.php:163
+msgid "Border Style"
+msgstr ""
+
+#: elementor/widgets/banner.php:326 elementor/widgets/button.php:180
+msgid "Disable Line-break"
+msgstr ""
+
+#: elementor/widgets/banner.php:362 elementor/widgets/button.php:220
+#: elementor/widgets/custom-header/cart.php:161
+#: elementor/widgets/custom-header/login_popup.php:155
+#: elementor/widgets/custom-header/wishlist.php:135 elementor/widgets/heading.php:119
+#: elementor/widgets/nav_menu.php:253 elementor/widgets/product_category.php:848
+msgid "Icon Position"
+msgstr ""
+
+#: elementor/widgets/banner.php:366 elementor/widgets/button.php:224
+#: elementor/widgets/heading.php:123
+msgid "After"
+msgstr ""
+
+#: elementor/widgets/banner.php:367 elementor/widgets/button.php:225
+#: elementor/widgets/heading.php:124
+msgid "Before"
+msgstr ""
+
+#: elementor/widgets/banner.php:378 elementor/widgets/button.php:233
+#: elementor/widgets/custom-header/cart.php:183
+#: elementor/widgets/custom-header/login_popup.php:174
+#: elementor/widgets/custom-header/responsive_group.php:254
+#: elementor/widgets/custom-header/responsive_group.php:375
+#: elementor/widgets/custom-header/wishlist.php:154 elementor/widgets/heading.php:132
+#: elementor/widgets/product.php:746 elementor/widgets/product_category.php:754
+#: elementor/widgets/product_category.php:867
+msgid "Icon Spacing"
+msgstr ""
+
+#: elementor/widgets/banner.php:400 elementor/widgets/button.php:252
+#: elementor/widgets/custom-header/cart.php:205
+#: elementor/widgets/custom-header/login_popup.php:193
+#: elementor/widgets/custom-header/mobile_toggle.php:64
+#: elementor/widgets/custom-header/responsive_group.php:275
+#: elementor/widgets/custom-header/responsive_group.php:396
+#: elementor/widgets/custom-header/wishlist.php:176 elementor/widgets/heading.php:151
+#: elementor/widgets/hotspot.php:153 elementor/widgets/product.php:768
+#: elementor/widgets/product_category.php:778 elementor/widgets/product_category.php:886
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/banner.php:421 elementor/widgets/button.php:270
+msgid "Show Icon on Hover"
+msgstr ""
+
+#: elementor/widgets/banner.php:686 elementor/widgets/banner.php:1352
+msgid "Animation Duration"
+msgstr ""
+
+#: elementor/widgets/banner.php:690 elementor/widgets/banner.php:1356
+msgid "Slow"
+msgstr ""
+
+#: elementor/widgets/banner.php:692 elementor/widgets/banner.php:1358
+msgid "Fast"
+msgstr ""
+
+#: elementor/widgets/banner.php:704 elementor/widgets/banner.php:1370
+msgid "Animation Delay"
+msgstr ""
+
+#: elementor/widgets/banner.php:720
+msgid "Banner Items"
+msgstr ""
+
+#: elementor/widgets/banner.php:742
+msgid ""
+"Once you have enabled this option, your banner size is initially set as image size."
+msgstr ""
+
+#: elementor/widgets/banner.php:781
+msgid "Stretch Height"
+msgstr ""
+
+#: elementor/widgets/banner.php:783
+msgid "You can make your banner height full of it's wrapper."
+msgstr ""
+
+#: elementor/widgets/banner.php:862
+msgid "Hover Effects"
+msgstr ""
+
+#: elementor/widgets/banner.php:872
+msgid "Scale"
+msgstr ""
+
+#: elementor/widgets/banner.php:882 elementor/widgets/blog.php:1079
+#: elementor/widgets/product_category.php:1448
+msgid "Overlay"
+msgstr ""
+
+#: elementor/widgets/banner.php:885
+msgid "You could choose one of overlays to show when you hover your banner."
+msgstr ""
+
+#: elementor/widgets/banner.php:887
+msgid "No Overlay"
+msgstr ""
+
+#: elementor/widgets/banner.php:889
+msgid "Overlay 1"
+msgstr ""
+
+#: elementor/widgets/banner.php:890
+msgid "Overlay 2"
+msgstr ""
+
+#: elementor/widgets/banner.php:891
+msgid "Overlay 3"
+msgstr ""
+
+#: elementor/widgets/banner.php:892
+msgid "Overlay 4"
+msgstr ""
+
+#: elementor/widgets/banner.php:914
+msgid "More ..."
+msgstr ""
+
+#: elementor/widgets/banner.php:945
+msgid "Enable Parallax"
+msgstr ""
+
+#: elementor/widgets/banner.php:987
+msgid "Wrap with"
+msgstr ""
+
+#: elementor/widgets/banner.php:993
+msgid "Container fluid"
+msgstr ""
+
+#: elementor/widgets/banner.php:1000 elementor/widgets/custom-product/data_tab.php:257
+msgid "Content Padding"
+msgstr ""
+
+#: elementor/widgets/banner.php:1031
+msgid "Text Align"
+msgstr ""
+
+#: elementor/widgets/block.php:23
+msgid "Molla Block"
+msgstr ""
+
+#: elementor/widgets/block.php:47
+msgid "Block Selector"
+msgstr ""
+
+#: elementor/widgets/block.php:54 elementor/widgets/hotspot.php:76
+msgid "Select a Block"
+msgstr ""
+
+#: elementor/widgets/blog.php:30
+msgid "Molla Blogs"
+msgstr ""
+
+#: elementor/widgets/blog.php:58
+msgid "Blog Selector"
+msgstr ""
+
+#: elementor/widgets/blog.php:111
+msgid "Select posts"
+msgstr ""
+
+#: elementor/widgets/blog.php:122 elementor/widgets/product.php:145
+#: elementor/widgets/product_category.php:131
+msgid "Select categories"
+msgstr ""
+
+#: elementor/widgets/blog.php:149
+#: elementor/widgets/custom-product/linked_products.php:133
+#: elementor/widgets/product.php:175 elementor/widgets/product_category.php:170
+#: widgets/product_brands.php:26
+msgid "Order by"
+msgstr ""
+
+#: elementor/widgets/blog.php:158
+#: elementor/widgets/custom-product/linked_products.php:141
+#: elementor/widgets/product.php:183
+msgid "Comment count"
+msgstr ""
+
+#: elementor/widgets/blog.php:159
+msgid "Menu order"
+msgstr ""
+
+#: elementor/widgets/blog.php:168
+#: elementor/widgets/custom-product/linked_products.php:152
+#: elementor/widgets/product.php:196 elementor/widgets/product_category.php:189
+msgid "Order way"
+msgstr ""
+
+#: elementor/widgets/blog.php:194 elementor/widgets/product.php:303
+#: elementor/widgets/product_category.php:224
+msgid "Grid - Creative"
+msgstr ""
+
+#: elementor/widgets/blog.php:204
+msgid "Column Spacing (px)"
+msgstr ""
+
+#: elementor/widgets/blog.php:205
+#: elementor/widgets/custom-product/linked_products.php:189
+#: elementor/widgets/product.php:314 elementor/widgets/product_category.php:268
+msgid "Leave blank if you use theme default value."
+msgstr ""
+
+#: elementor/widgets/blog.php:394 elementor/widgets/product.php:699
+msgid "Ajax Load More"
+msgstr ""
+
+#: elementor/widgets/blog.php:397 elementor/widgets/product.php:703
+msgid "Do not load more"
+msgstr ""
+
+#: elementor/widgets/blog.php:398 elementor/widgets/product.php:704
+#: elementor/widgets/product.php:1592 elementor/widgets/product.php:1859
+#: elementor/widgets/product.php:2077 elementor/widgets/product.php:2281
+msgid "View More Button"
+msgstr ""
+
+#: elementor/widgets/blog.php:399 elementor/widgets/product.php:705
+msgid "Infinite Scroll"
+msgstr ""
+
+#: elementor/widgets/blog.php:410
+msgid "View More Articles"
+msgstr ""
+
+#: elementor/widgets/blog.php:437
+msgid "Blog Style"
+msgstr ""
+
+#: elementor/widgets/blog.php:450
+msgid "Mask"
+msgstr ""
+
+#: elementor/widgets/blog.php:459
+msgid "Featured Image Width (cols)"
+msgstr ""
+
+#: elementor/widgets/blog.php:499
+msgid "Show Options"
+msgstr ""
+
+#: elementor/widgets/blog.php:511
+msgid "Featured Image"
+msgstr ""
+
+#: elementor/widgets/blog.php:517 elementor/widgets/blog.php:802
+#: elementor/widgets/blog.php:884 elementor/widgets/blog.php:937
+msgid "Read More"
+msgstr ""
+
+#: elementor/widgets/blog.php:572
+msgid "Read More Label"
+msgstr ""
+
+#: elementor/widgets/blog.php:583
+msgid "Enable Icon on Hover"
+msgstr ""
+
+#: elementor/widgets/blog.php:593 elementor/widgets/heading.php:453
+#: elementor/widgets/product.php:1381
+msgid "Dimensions"
+msgstr ""
+
+#: elementor/widgets/blog.php:601 elementor/widgets/heading.php:582
+#: elementor/widgets/product_category.php:915
+msgid "Title Wrapper"
+msgstr ""
+
+#: elementor/widgets/blog.php:646 elementor/widgets/product.php:1485
+msgid "Load More Button"
+msgstr ""
+
+#: elementor/widgets/blog.php:661 elementor/widgets/blog.php:766
+#: elementor/widgets/blog.php:851 elementor/widgets/blog.php:904
+msgid "Post Meta"
+msgstr ""
+
+#: elementor/widgets/blog.php:677 elementor/widgets/blog.php:775
+#: elementor/widgets/blog.php:862 elementor/widgets/blog.php:915
+msgid "Post Title"
+msgstr ""
+
+#: elementor/widgets/blog.php:692 elementor/widgets/blog.php:784
+#: elementor/widgets/blog.php:873 elementor/widgets/blog.php:926
+msgid "Post Category"
+msgstr ""
+
+#: elementor/widgets/blog.php:707
+msgid "Post Excerpt"
+msgstr ""
+
+#: elementor/widgets/blog.php:722
+msgid "Post Read More Link"
+msgstr ""
+
+#: elementor/widgets/blog.php:739 elementor/widgets/button.php:373
+#: elementor/widgets/count_down.php:270 elementor/widgets/count_to.php:140
+#: elementor/widgets/custom-product/excerpt.php:60
+#: elementor/widgets/custom-product/meta.php:106
+#: elementor/widgets/custom-product/price.php:60
+#: elementor/widgets/custom-product/title.php:60 elementor/widgets/product.php:1502
+#: elementor/widgets/product_category.php:932 elementor/widgets/product_category.php:976
+#: elementor/widgets/product_category.php:1057
+#: elementor/widgets/product_category.php:1124
+#: elementor/widgets/product_category.php:1172
+#: elementor/widgets/product_category.php:1272 elementor/widgets/testimonial.php:447
+#: elementor/widgets/testimonial.php:655
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/blog.php:793 elementor/widgets/blog.php:952
+msgid "Post Content"
+msgstr ""
+
+#: elementor/widgets/blog.php:970 elementor/widgets/blog.php:1007
+#: elementor/widgets/blog.php:1044
+msgid "More Button Color"
+msgstr ""
+
+#: elementor/widgets/blog.php:981 elementor/widgets/blog.php:1018
+#: elementor/widgets/blog.php:1055
+msgid "More Button Background Color"
+msgstr ""
+
+#: elementor/widgets/blog.php:1123 elementor/widgets/product.php:2600
+#: elementor/widgets/product_category.php:1492
+msgid "Shadow Effect"
+msgstr ""
+
+#: elementor/widgets/button.php:24
+msgid "Molla Button"
+msgstr ""
+
+#: elementor/widgets/button.php:279
+msgid "Use as Video Play Button"
+msgstr ""
+
+#: elementor/widgets/button.php:283
+msgid "You can play video whenever you set video in parent section"
+msgstr ""
+
+#: elementor/widgets/button.php:293
+msgid "Button Style"
+msgstr ""
+
+#: elementor/widgets/button.php:301
+msgid "Min Width"
+msgstr ""
+
+#: elementor/widgets/button.php:324
+#: elementor/widgets/custom-header/currency_switcher.php:60
+#: elementor/widgets/custom-header/currency_switcher.php:192
+#: elementor/widgets/custom-header/currency_switcher.php:262
+#: elementor/widgets/custom-header/lang_switcher.php:60
+#: elementor/widgets/custom-header/lang_switcher.php:192
+#: elementor/widgets/custom-header/lang_switcher.php:262
+#: elementor/widgets/custom-header/mobile_toggle.php:86
+#: elementor/widgets/custom-header/search.php:186
+#: elementor/widgets/custom-header/search.php:273 elementor/widgets/nav_menu.php:421
+#: elementor/widgets/nav_menu.php:574 elementor/widgets/nav_menu.php:727
+#: elementor/widgets/nav_menu.php:912 elementor/widgets/nav_menu.php:935
+#: elementor/widgets/product_category.php:1020
+#: elementor/widgets/product_category.php:1295 elementor/widgets/testimonial.php:373
+#: elementor/widgets/testimonial.php:501
+msgid "Padding"
+msgstr ""
+
+#: elementor/widgets/count_down.php:26
+msgid "Molla Count Down"
+msgstr ""
+
+#: elementor/widgets/count_down.php:86
+msgid "Due Date"
+msgstr ""
+
+#: elementor/widgets/count_down.php:95
+msgid "Time Zone"
+msgstr ""
+
+#: elementor/widgets/count_down.php:99
+msgid "WordPress Defined Timezone"
+msgstr ""
+
+#: elementor/widgets/count_down.php:100
+msgid "User System Timezone"
+msgstr ""
+
+#: elementor/widgets/count_down.php:108
+msgid "CountDown Type"
+msgstr ""
+
+#: elementor/widgets/count_down.php:121 elementor/widgets/count_to.php:87
+#: elementor/widgets/count_to.php:158 elementor/widgets/count_to.php:196
+#: elementor/widgets/custom-header/cart.php:85
+#: elementor/widgets/custom-header/cart.php:243
+#: elementor/widgets/custom-header/login_popup.php:130
+#: elementor/widgets/custom-header/login_popup.php:222
+#: elementor/widgets/custom-header/login_popup.php:250
+#: elementor/widgets/custom-header/login_popup.php:281
+#: elementor/widgets/custom-header/responsive_group.php:296
+#: elementor/widgets/custom-header/wishlist.php:59
+#: elementor/widgets/custom-header/wishlist.php:205
+#: elementor/widgets/custom-product/countdown.php:71
+#: meta_boxes/locations/product_attr.php:93 meta_boxes/locations/product_attr.php:116
+msgid "Label"
+msgstr ""
+
+#: elementor/widgets/count_down.php:133
+#: elementor/widgets/custom-product/linked_products.php:671
+#: elementor/widgets/product.php:1201
+msgid "Label Type"
+msgstr ""
+
+#: elementor/widgets/count_down.php:138
+msgid "Short"
+msgstr ""
+
+#: elementor/widgets/count_down.php:146
+msgid "Label Position"
+msgstr ""
+
+#: elementor/widgets/count_down.php:159
+msgid "Units"
+msgstr ""
+
+#: elementor/widgets/count_down.php:169
+msgid "Year"
+msgstr ""
+
+#: elementor/widgets/count_down.php:170
+msgid "Month"
+msgstr ""
+
+#: elementor/widgets/count_down.php:171
+msgid "Week"
+msgstr ""
+
+#: elementor/widgets/count_down.php:172
+msgid "Day"
+msgstr ""
+
+#: elementor/widgets/count_down.php:173
+msgid "Hour"
+msgstr ""
+
+#: elementor/widgets/count_down.php:174
+msgid "Minute"
+msgstr ""
+
+#: elementor/widgets/count_down.php:175
+msgid "Second"
+msgstr ""
+
+#: elementor/widgets/count_down.php:185
+msgid "Dimension"
+msgstr ""
+
+#: elementor/widgets/count_down.php:193
+msgid "Countdown Padding"
+msgstr ""
+
+#: elementor/widgets/count_down.php:208
+msgid "Amount Padding"
+msgstr ""
+
+#: elementor/widgets/count_down.php:223
+msgid "Label Margin"
+msgstr ""
+
+#: elementor/widgets/count_down.php:241
+msgid "Unit Position"
+msgstr ""
+
+#: elementor/widgets/count_down.php:279 elementor/widgets/count_down.php:314
+msgid "Amount"
+msgstr ""
+
+#: elementor/widgets/count_down.php:288 elementor/widgets/count_down.php:325
+msgid "Unit, Label"
+msgstr ""
+
+#: elementor/widgets/count_down.php:337
+msgid "Seperator"
+msgstr ""
+
+#: elementor/widgets/count_down.php:350
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/count_down.php:367
+msgid "Border-radius (%)"
+msgstr ""
+
+#: elementor/widgets/count_to.php:25
+msgid "Molla Counter"
+msgstr ""
+
+#: elementor/widgets/count_to.php:60
+msgid "From"
+msgstr ""
+
+#: elementor/widgets/count_to.php:69
+msgid "To"
+msgstr ""
+
+#: elementor/widgets/count_to.php:78
+msgid "Unit"
+msgstr ""
+
+#: elementor/widgets/count_to.php:128
+msgid "Counter rolling time"
+msgstr ""
+
+#: elementor/widgets/count_to.php:131
+msgid "Seconds of counter rolling"
+msgstr ""
+
+#: elementor/widgets/count_to.php:149 elementor/widgets/count_to.php:185
+msgid "Number"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:23
+msgid "Molla Cart"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:50
+msgid "Enable Off-Canvas Type"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:59
+msgid "Open Mini-cart when"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:63
+msgid "Cart icon is clicked"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:64
+msgid "Product is added to cart"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:75
+#: elementor/widgets/custom-header/login_popup.php:58
+#: elementor/widgets/custom-header/wishlist.php:50
+msgid "Show Label"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:87
+#: templates/elementor/custom-header/molla_cart.php:13
+msgid "Cart"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:97
+#: elementor/widgets/custom-header/wishlist.php:71
+msgid "Show Count"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:106
+#: elementor/widgets/custom-header/wishlist.php:80
+msgid "Count Position"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:125
+#: elementor/widgets/custom-header/wishlist.php:99
+msgid "Count Spacing"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:223
+msgid "Show Price"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:234
+msgid "Icon, Label, Price"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:252
+#: elementor/widgets/custom-product/linked_products.php:653
+#: elementor/widgets/product.php:1169
+msgid "Price"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:279
+#: elementor/widgets/custom-header/cart.php:319
+#: elementor/widgets/custom-header/wishlist.php:232
+#: elementor/widgets/custom-header/wishlist.php:262 elementor/widgets/product.php:1801
+#: elementor/widgets/product.php:2019 elementor/widgets/product.php:2223
+msgid "Label Color"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:289
+#: elementor/widgets/custom-header/cart.php:329
+msgid "Price Color"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:346
+#: elementor/widgets/custom-header/cart.php:355
+#: elementor/widgets/custom-header/wishlist.php:279
+#: elementor/widgets/custom-header/wishlist.php:288
+msgid "Count"
+msgstr ""
+
+#: elementor/widgets/custom-header/cart.php:363
+#: elementor/widgets/custom-header/wishlist.php:296
+msgid "Count Size"
+msgstr ""
+
+#: elementor/widgets/custom-header/currency_switcher.php:25
+msgid "Molla Currency Switcher"
+msgstr ""
+
+#: elementor/widgets/custom-header/currency_switcher.php:44
+#: elementor/widgets/custom-header/lang_switcher.php:44
+msgid "Switcher Toggle"
+msgstr ""
+
+#: elementor/widgets/custom-header/currency_switcher.php:184
+#: elementor/widgets/custom-header/lang_switcher.php:184
+msgid "Dropdown Box"
+msgstr ""
+
+#: elementor/widgets/custom-header/currency_switcher.php:246
+msgid "Currency item"
+msgstr ""
+
+#: elementor/widgets/custom-header/lang_switcher.php:25
+msgid "Molla Language Switcher"
+msgstr ""
+
+#: elementor/widgets/custom-header/lang_switcher.php:246
+msgid "Language item"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:23
+msgid "Molla Account"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:50
+msgid "Enable Popup"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:67
+#: elementor/widgets/custom-header/responsive_group.php:179
+msgid "Show Register Label"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:79
+#: elementor/widgets/custom-header/responsive_group.php:191
+msgid "Log In Label"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:81
+#: elementor/widgets/custom-header/responsive_group.php:193
+#: templates/elementor/custom-header/molla_login_popup.php:13
+#: templates/elementor/custom-header/molla_login_popup.php:45
+#: templates/elementor/custom-header/molla_responsive_group.php:43
+#: templates/elementor/custom-header/molla_responsive_group.php:79
+msgid "Log In"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:92
+#: elementor/widgets/custom-header/responsive_group.php:203
+msgid "Delimiter"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:105
+#: elementor/widgets/custom-header/responsive_group.php:215
+msgid "Register Label"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:107
+#: elementor/widgets/custom-header/responsive_group.php:217
+#: templates/elementor/custom-header/molla_login_popup.php:14
+#: templates/elementor/custom-header/molla_login_popup.php:45
+#: templates/elementor/custom-header/molla_responsive_group.php:45
+#: templates/elementor/custom-header/molla_responsive_group.php:80
+msgid "Register"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:118
+#: elementor/widgets/custom-header/responsive_group.php:227
+msgid "Log Out Label"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:120
+#: elementor/widgets/custom-header/responsive_group.php:229
+#: templates/elementor/custom-header/molla_login_popup.php:15
+#: templates/elementor/custom-header/molla_login_popup.php:36
+#: templates/elementor/custom-header/molla_responsive_group.php:46
+#: templates/elementor/custom-header/molla_responsive_group.php:81
+msgid "Log Out"
+msgstr ""
+
+#: elementor/widgets/custom-header/login_popup.php:132
+#: templates/elementor/custom-header/molla_login_popup.php:16
+#: templates/elementor/custom-header/molla_login_popup.php:54
+msgid "Account"
+msgstr ""
+
+#: elementor/widgets/custom-header/mobile_toggle.php:25
+msgid "Molla Mobile Menu Toggle"
+msgstr ""
+
+#: elementor/widgets/custom-header/mobile_toggle.php:44
+#: elementor/widgets/custom-header/mobile_toggle.php:78
+msgid "Mobile Menu Toggle"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:28
+msgid "Molla Responsive Items"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:72
+msgid "Mobile Label"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:74
+#: templates/elementor/custom-header/molla_responsive_group.php:17
+#: templates/elementor/custom-header/molla_responsive_group.php:25
+msgid "Links"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:81
+msgid "Item Spacing"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:154
+#: elementor/widgets/nav_menu.php:61
+msgid "Menu"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:155
+msgid "Login Form"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:156
+msgid "Wishlist Link"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:157
+msgid "Currency Switcher"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:158
+msgid "Language Switcher"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:159
+#: elementor/widgets/hotspot.php:57 elementor/widgets/hotspot.php:67
+#: elementor/widgets/lightbox.php:160
+msgid "Custom Html"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:167
+#: elementor/widgets/nav_menu.php:68
+msgid "Select Menu"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:298
+#: elementor/widgets/custom-header/wishlist.php:61
+#: elementor/widgets/custom-product/linked_products.php:657
+#: elementor/widgets/product.php:1173
+#: templates/elementor/custom-header/molla_responsive_group.php:49
+#: templates/elementor/custom-header/molla_responsive_group.php:96
+#: templates/elementor/custom-header/molla_wishlist.php:11
+#: templates/elementor/custom-header/molla_wishlist.php:44
+msgid "Wishlist"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:319
+#: elementor/widgets/custom-header/responsive_group.php:343
+msgid "Count Color"
+msgstr ""
+
+#: elementor/widgets/custom-header/responsive_group.php:417
+msgid "Html"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:25
+msgid "Molla Search"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:44
+msgid "Search"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:52
+msgid "Search Type"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:56
+msgid "Static"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:57
+msgid "Toggle"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:65
+msgid "Search Content Types"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:66
+msgid "Select post type to search"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:71 elementor/widgets/hotspot.php:59
+msgid "Product"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:72
+msgid "Post"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:80
+msgid "Search by Category"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:89
+msgid "Placeholder"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:98
+msgid "Search Icon"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:110
+msgid "Icon First"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:119
+msgid "Search Width"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:170
+msgid "Input Field"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:211
+#: elementor/widgets/custom-header/search.php:340
+#: elementor/widgets/custom-header/search.php:382 elementor/widgets/nav_menu.php:949
+#: meta_boxes/locations/post.php:48
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:285 elementor/widgets/nav_menu.php:774
+msgid "Icon Size (px)"
+msgstr ""
+
+#: elementor/widgets/custom-header/search.php:414
+msgid "Search..."
+msgstr ""
+
+#: elementor/widgets/custom-header/vertical_divider.php:25
+msgid "Molla Vertical Divider"
+msgstr ""
+
+#: elementor/widgets/custom-header/vertical_divider.php:44
+msgid "Vertical Divider"
+msgstr ""
+
+#: elementor/widgets/custom-header/wishlist.php:23
+msgid "Molla Wishlist"
+msgstr ""
+
+#: elementor/widgets/custom-header/wishlist.php:196
+msgid "Icon & Label"
+msgstr ""
+
+#: elementor/widgets/custom-product/cart_form.php:22
+msgid "Molla Cart Form"
+msgstr ""
+
+#: elementor/widgets/custom-product/cart_form.php:62
+msgid "Inline QTY + Cart"
+msgstr ""
+
+#: elementor/widgets/custom-product/cart_form.php:77
+msgid "Attribute Spacing"
+msgstr ""
+
+#: elementor/widgets/custom-product/cart_form.php:103
+msgid "QTY Label"
+msgstr ""
+
+#: elementor/widgets/custom-product/cart_form.php:119
+#: elementor/widgets/custom-product/countdown.php:83
+#: elementor/widgets/custom-product/data_tab.php:74
+#: elementor/widgets/custom-product/excerpt.php:79
+#: elementor/widgets/custom-product/meta.php:76
+#: elementor/widgets/custom-product/navigation.php:58
+#: elementor/widgets/custom-product/price.php:132
+#: elementor/widgets/custom-product/rating.php:57
+#: elementor/widgets/custom-product/share.php:159
+#: elementor/widgets/custom-product/title.php:79 elementor/widgets/product.php:522
+msgid "Align"
+msgstr ""
+
+#: elementor/widgets/custom-product/cart_form.php:150
+msgid "Add To Wishlist?"
+msgstr ""
+
+#: elementor/widgets/custom-product/countdown.php:22
+msgid "Molla Product Countdown"
+msgstr ""
+
+#: elementor/widgets/custom-product/countdown.php:61
+#: elementor/widgets/custom-product/data_tab.php:64
+#: elementor/widgets/custom-product/linked_products.php:177
+msgid "Theme Option"
+msgstr ""
+
+#: elementor/widgets/custom-product/countdown.php:73
+msgid "offer ends in"
+msgstr ""
+
+#: elementor/widgets/custom-product/data_tab.php:25
+msgid "Molla Product Data Tab"
+msgstr ""
+
+#: elementor/widgets/custom-product/data_tab.php:103
+msgid "Link Typography"
+msgstr ""
+
+#: elementor/widgets/custom-product/data_tab.php:240 elementor/widgets/heading.php:553
+msgid "Link Padding"
+msgstr ""
+
+#: elementor/widgets/custom-product/excerpt.php:24
+msgid "Molla Product Excerpt"
+msgstr ""
+
+#: elementor/widgets/custom-product/image.php:22
+msgid "Molla Product Image"
+msgstr ""
+
+#: elementor/widgets/custom-product/image.php:56
+msgid "Product Image Type"
+msgstr ""
+
+#: elementor/widgets/custom-product/image.php:60
+msgid "Horizontal Thumbs"
+msgstr ""
+
+#: elementor/widgets/custom-product/image.php:61
+msgid "Vertical Thumbs"
+msgstr ""
+
+#: elementor/widgets/custom-product/image.php:62
+msgid "Gallery Type"
+msgstr ""
+
+#: elementor/widgets/custom-product/image.php:63
+msgid "Grid Type"
+msgstr ""
+
+#: elementor/widgets/custom-product/image.php:64
+msgid "Masonry Grid"
+msgstr ""
+
+#: elementor/widgets/custom-product/image.php:120
+#: elementor/widgets/custom-product/linked_products.php:188
+#: elementor/widgets/product.php:313 elementor/widgets/product_category.php:267
+msgid "Spacing (px)"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:22
+msgid "Molla Product Linked Products"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:61
+msgid "Upsells"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:62
+#: widgets/related_products.php:133
+msgid "Related Products"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:94
+#: elementor/widgets/product.php:1425
+msgid "Title Spacing"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:112
+#: elementor/widgets/product.php:157
+msgid "Products Count Per Page"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:310
+#: elementor/widgets/product.php:800
+msgid "Products Type"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:321
+#: elementor/widgets/product.php:811
+msgid "Theme Options"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:343
+#: elementor/widgets/product.php:835
+msgid "Banner-Type"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:344
+#: elementor/widgets/product.php:836
+msgid "Gallery-Type"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:355
+#: elementor/widgets/product.php:847
+msgid "Product Align"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:610
+#: elementor/widgets/product.php:1123
+msgid "Show Product Hover Image"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:622
+#: elementor/widgets/product.php:1135
+msgid "Vertical Action Animation"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:638
+#: elementor/widgets/product.php:1151
+msgid "Visible Items"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:650
+#: elementor/widgets/product.php:1164
+msgid "Short description works only in full mode."
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:655
+#: elementor/widgets/product.php:1171
+msgid "Add To Cart"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:656
+#: elementor/widgets/product.php:1172
+msgid "Quick View"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:658
+#: elementor/widgets/product.php:1174
+msgid "Count Deal"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:659
+#: elementor/widgets/product.php:1176
+msgid "Short Description"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:686
+#: elementor/widgets/product.php:1216
+msgid "Labels"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:697
+#: elementor/widgets/product.php:1227 elementor/widgets/product.php:2427
+msgid "New"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:698
+#: elementor/widgets/product.php:1228 elementor/widgets/product.php:2457
+msgid "Sale"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:699
+#: elementor/widgets/product.php:1229
+msgid "Out Stock"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:700
+#: elementor/widgets/product.php:1230
+msgid "Hurry Up"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:711
+#: elementor/widgets/product.php:1238
+msgid "Quick View Position"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:714
+#: elementor/widgets/product.php:1241
+msgid "Quick view button is placed by selected options in products."
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:717
+#: elementor/widgets/custom-product/linked_products.php:735
+#: elementor/widgets/product.php:1244 elementor/widgets/product.php:1263
+msgid "After Add To Cart"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:718
+#: elementor/widgets/custom-product/linked_products.php:737
+#: elementor/widgets/product.php:1245 elementor/widgets/product.php:1265
+msgid "Inner Thumbnail Vertical"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:729
+#: elementor/widgets/product.php:1257
+msgid "Wishlist Position"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:732
+#: elementor/widgets/product.php:1260
+msgid "Wishlist button is placed by selected options in products."
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:736
+#: elementor/widgets/product.php:1264
+msgid "After Product Name"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:749
+#: elementor/widgets/product.php:1277
+msgid "Wishlist Button Expandable"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:761
+#: elementor/widgets/product.php:1289
+msgid "Show \"Out-of-Stock\" in body panel."
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:785
+#: elementor/widgets/product.php:1325
+msgid "Disable Out Of Stock Products"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:798
+#: elementor/widgets/product.php:1338
+msgid "Icon Position Top"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:799
+#: elementor/widgets/product.php:1339
+msgid "In product action icon position is top of label."
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:809
+#: elementor/widgets/heading.php:406 elementor/widgets/product.php:1349
+msgid "Divider"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:812
+#: elementor/widgets/product.php:1352
+msgid "For product buttons split."
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:815
+#: elementor/widgets/product.php:1355 elementor/widgets/testimonial.php:174
+msgid "Solid"
+msgstr ""
+
+#: elementor/widgets/custom-product/linked_products.php:816
+#: elementor/widgets/product.php:1356
+msgid "Dotted"
+msgstr ""
+
+#: elementor/widgets/custom-product/meta.php:24
+msgid "Molla Product Meta"
+msgstr ""
+
+#: elementor/widgets/custom-product/meta.php:60
+msgid "Meta Direction"
+msgstr ""
+
+#: elementor/widgets/custom-product/navigation.php:23
+msgid "Molla Product Nav"
+msgstr ""
+
+#: elementor/widgets/custom-product/navigation.php:83
+msgid "Prev Icon"
+msgstr ""
+
+#: elementor/widgets/custom-product/navigation.php:111
+msgid "Next Icon"
+msgstr ""
+
+#: elementor/widgets/custom-product/navigation.php:166
+#: elementor/widgets/custom-product/navigation.php:196
+msgid "Link Color"
+msgstr ""
+
+#: elementor/widgets/custom-product/price.php:24
+msgid "Molla Product Price"
+msgstr ""
+
+#: elementor/widgets/custom-product/price.php:90
+msgid "Saled"
+msgstr ""
+
+#: elementor/widgets/custom-product/price.php:110
+msgid "Old"
+msgstr ""
+
+#: elementor/widgets/custom-product/rating.php:22
+msgid "Molla Product Rating"
+msgstr ""
+
+#: elementor/widgets/custom-product/share.php:25
+msgid "Molla Product Share"
+msgstr ""
+
+#: elementor/widgets/custom-product/title.php:24
+msgid "Molla Product Title"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:26
+msgid "Molla Floating Image"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:77
+msgid "Enable Relative"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:87
+msgid "Direction"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:91
+msgid "Opposite"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:92
+msgid "Direct"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:157 elementor/widgets/testimonial.php:188
+msgid "Max Width"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:215
+msgid "Object Fit"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:222
+msgid "Fill"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:223
+msgid "Cover"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:224
+msgid "Contain"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:253 elementor/widgets/floating_image.php:288
+msgid "Opacity"
+msgstr ""
+
+#: elementor/widgets/floating_image.php:331
+msgid "Hover Animation"
+msgstr ""
+
+#: elementor/widgets/heading.php:27
+msgid "Molla Heading"
+msgstr ""
+
+#: elementor/widgets/heading.php:44
+msgid "Subtitle & Link"
+msgstr ""
+
+#: elementor/widgets/heading.php:54
+msgid "Subtitle text here.."
+msgstr ""
+
+#: elementor/widgets/heading.php:61
+msgid "Subtitle HTML Tag"
+msgstr ""
+
+#: elementor/widgets/heading.php:178
+msgid "Link before title"
+msgstr ""
+
+#: elementor/widgets/heading.php:204
+msgid "Heading Layout"
+msgstr ""
+
+#: elementor/widgets/heading.php:239
+msgid "Both"
+msgstr ""
+
+#: elementor/widgets/heading.php:254
+msgid "Decoration Spacing"
+msgstr ""
+
+#: elementor/widgets/heading.php:287 elementor/widgets/heading.php:342
+#: elementor/widgets/heading.php:375
+msgid "Text Color"
+msgstr ""
+
+#: elementor/widgets/heading.php:461
+msgid "Title Wrapper Margin"
+msgstr ""
+
+#: elementor/widgets/heading.php:477
+msgid "Title Margin"
+msgstr ""
+
+#: elementor/widgets/heading.php:496
+msgid "Title & Subtitle Content Padding"
+msgstr ""
+
+#: elementor/widgets/heading.php:515
+msgid "Subtitle Margin"
+msgstr ""
+
+#: elementor/widgets/heading.php:534
+msgid "Link Margin"
+msgstr ""
+
+#: elementor/widgets/heading.php:574
+msgid "Backgrounds"
+msgstr ""
+
+#: elementor/widgets/heading.php:593
+msgid "Title & Subtitle Content"
+msgstr ""
+
+#: elementor/widgets/hotspot.php:26
+msgid "Molla Hotspot"
+msgstr ""
+
+#: elementor/widgets/hotspot.php:99
+msgid "Select a Product"
+msgstr ""
+
+#: elementor/widgets/hotspot.php:110
+msgid "Hotspot Size"
+msgstr ""
+
+#: elementor/widgets/hotspot.php:171
+msgid "Popup Position"
+msgstr ""
+
+#: elementor/widgets/hotspot.php:260
+msgid "Effect Delay ( ms )"
+msgstr ""
+
+#: elementor/widgets/hotspot.php:281
+msgid "Hotspot"
+msgstr ""
+
+#: elementor/widgets/image_carousel.php:25
+msgid "Molla Image Carousel"
+msgstr ""
+
+#: elementor/widgets/image_carousel.php:55
+msgid "Image Carousel"
+msgstr ""
+
+#: elementor/widgets/image_carousel.php:62
+msgid "Add Images"
+msgstr ""
+
+#: elementor/widgets/image_carousel.php:80 elementor/widgets/product_brand.php:132
+msgid "Slides to Show"
+msgstr ""
+
+#: elementor/widgets/image_carousel.php:117 elementor/widgets/image_carousel.php:123
+msgid "Caption"
+msgstr ""
+
+#: elementor/widgets/image_carousel.php:132 elementor/widgets/product_brand.php:177
+msgid "Image Stretch"
+msgstr ""
+
+#: elementor/widgets/image_carousel.php:137 elementor/widgets/product_brand.php:182
+msgid "Yes"
+msgstr ""
+
+#: elementor/widgets/image_carousel.php:165 elementor/widgets/product_brand.php:210
+msgid "Horizontal Align"
+msgstr ""
+
+#: elementor/widgets/image_carousel.php:192 elementor/widgets/product_brand.php:237
+msgid "Additional Options"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:30
+msgid "Molla Modal"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:58
+msgid "Lightbox Options"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:66
+msgid "What type to display?"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:70 elementor/widgets/team_member.php:155
+#: widgets/follow_us.php:163
+msgid "Youtube"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:79 elementor/widgets/lightbox.php:93
+msgid "Url"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:108
+msgid "Show on"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:111
+msgid "Page Load"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:112
+msgid "Selector"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:121
+msgid "Timeout ( second )"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:132
+msgid "CSS Selector"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:155 meta_boxes/locations/post.php:55
+msgid "Content Type"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:159
+msgid "Popup"
+msgstr ""
+
+#: elementor/widgets/lightbox.php:171
+msgid "Select a Popup"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:25
+msgid "Molla Nav Menu"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:77
+msgid "Select Skin"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:82 widgets/wp_nav_menu.php:144
+msgid "Skin 1"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:83 widgets/wp_nav_menu.php:147
+msgid "Skin 2"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:84 widgets/wp_nav_menu.php:150
+msgid "Skin 3"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:92
+msgid "Show Arrow"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:100
+msgid "Arrow Size (px)"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:120
+msgid "Top Scale"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:121
+msgid "Bottom Scale"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:158
+msgid "Enable Toggle Menu"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:167 elementor/widgets/nav_menu.php:169
+msgid "Toggle Menu Title"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:193
+msgid "Toggle Menu Opens When"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:197
+msgid "Mouse Hover"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:198
+msgid "Mouse Toggle"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:199
+msgid "Mouse Toggle (active on homepage) "
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:210
+msgid "Show Icon"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:276
+msgid "Show as Vertical"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:290
+msgid "Menu Ancestor"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:448
+msgid "Submenu Heading"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:601
+msgid "Submenu Item"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:755
+msgid "Menu Toggle"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:786
+msgid "Icon Space (px)"
+msgstr ""
+
+#: elementor/widgets/nav_menu.php:927
+msgid "Menu Dropdown"
+msgstr ""
+
+#: elementor/widgets/product.php:30
+msgid "Molla Products"
+msgstr ""
+
+#: elementor/widgets/product.php:76
+msgid "Title Link"
+msgstr ""
+
+#: elementor/widgets/product.php:126
+msgid "Pre-Ordered"
+msgstr ""
+
+#: elementor/widgets/product.php:134
+msgid "Select products"
+msgstr ""
+
+#: elementor/widgets/product.php:186
+msgid "Sale End Date"
+msgstr ""
+
+#: elementor/widgets/product.php:187
+msgid "Sale Start Date"
+msgstr ""
+
+#: elementor/widgets/product.php:208
+msgid "Date From"
+msgstr ""
+
+#: elementor/widgets/product.php:209
+msgid "Start date that the ordering will be applied"
+msgstr ""
+
+#: elementor/widgets/product.php:214 elementor/widgets/product.php:244
+msgid "Today"
+msgstr ""
+
+#: elementor/widgets/product.php:215 elementor/widgets/product.php:245
+msgid "This Week"
+msgstr ""
+
+#: elementor/widgets/product.php:216 elementor/widgets/product.php:246
+msgid "This Month"
+msgstr ""
+
+#: elementor/widgets/product.php:217 elementor/widgets/product.php:247
+msgid "This Year"
+msgstr ""
+
+#: elementor/widgets/product.php:238
+msgid "Date To"
+msgstr ""
+
+#: elementor/widgets/product.php:239
+msgid "End date that the ordering will be applied"
+msgstr ""
+
+#: elementor/widgets/product.php:269
+msgid "Hide Product Out of Date"
+msgstr ""
+
+#: elementor/widgets/product.php:277
+msgid "Total sales"
+msgstr ""
+
+#: elementor/widgets/product.php:280
+msgid "Only count"
+msgstr ""
+
+#: elementor/widgets/product.php:281
+msgid "Percentage of max"
+msgstr ""
+
+#: elementor/widgets/product.php:393
+msgid "Slider Options"
+msgstr ""
+
+#: elementor/widgets/product.php:552
+msgid "Filter Options"
+msgstr ""
+
+#: elementor/widgets/product.php:562
+msgid "Filter By Category"
+msgstr ""
+
+#: elementor/widgets/product.php:570
+msgid "Hide 'All'"
+msgstr ""
+
+#: elementor/widgets/product.php:581
+msgid "Hide Empty Category"
+msgstr ""
+
+#: elementor/widgets/product.php:591
+msgid "Title Wrap Position"
+msgstr ""
+
+#: elementor/widgets/product.php:596
+msgid "Left Side"
+msgstr ""
+
+#: elementor/widgets/product.php:600
+msgid "Right Side"
+msgstr ""
+
+#: elementor/widgets/product.php:613
+msgid "Filter Position"
+msgstr ""
+
+#: elementor/widgets/product.php:644
+msgid "Choose Background Image for Heading"
+msgstr ""
+
+#: elementor/widgets/product.php:661
+msgid "Filter Align"
+msgstr ""
+
+#: elementor/widgets/product.php:690
+msgid "Extra Options"
+msgstr ""
+
+#: elementor/widgets/product.php:719
+msgid "View More Products"
+msgstr ""
+
+#: elementor/widgets/product.php:791
+msgid "Enable Split Line"
+msgstr ""
+
+#: elementor/widgets/product.php:833
+msgid "Card"
+msgstr ""
+
+#: elementor/widgets/product.php:834
+msgid "Widget"
+msgstr ""
+
+#: elementor/widgets/product.php:1095
+msgid "Image Min Height"
+msgstr ""
+
+#: elementor/widgets/product.php:1175
+msgid "Attribute Support"
+msgstr ""
+
+#: elementor/widgets/product.php:1188
+msgid "Show \"Read More\" instead of \"Add to cart\""
+msgstr ""
+
+#: elementor/widgets/product.php:1189
+msgid ""
+"When \"Add to cart\" is disabled, \"Read More\" button will be displayed instead of "
+"it."
+msgstr ""
+
+#: elementor/widgets/product.php:1246
+msgid "Center of Thumbnail"
+msgstr ""
+
+#: elementor/widgets/product.php:1313
+msgid "Hide Label"
+msgstr ""
+
+#: elementor/widgets/product.php:1389
+msgid "Title Wrapper Spacing"
+msgstr ""
+
+#: elementor/widgets/product.php:1407
+msgid "Title Wrapper Padding"
+msgstr ""
+
+#: elementor/widgets/product.php:1440
+msgid "Description Spacing"
+msgstr ""
+
+#: elementor/widgets/product.php:1455
+msgid "Filter Spacing"
+msgstr ""
+
+#: elementor/widgets/product.php:1470
+msgid "Products Spacing"
+msgstr ""
+
+#: elementor/widgets/product.php:1529
+msgid "Category Filter"
+msgstr ""
+
+#: elementor/widgets/product.php:1538 elementor/widgets/product.php:1675
+#: elementor/widgets/product.php:1717
+msgid "Product Name"
+msgstr ""
+
+#: elementor/widgets/product.php:1547 elementor/widgets/product.php:1664
+#: elementor/widgets/product.php:1706
+msgid "Product Category"
+msgstr ""
+
+#: elementor/widgets/product.php:1556 elementor/widgets/product.php:2362
+msgid "Product Price"
+msgstr ""
+
+#: elementor/widgets/product.php:1565 elementor/widgets/product.php:2374
+msgid "Product New Price"
+msgstr ""
+
+#: elementor/widgets/product.php:1574 elementor/widgets/product.php:2385
+msgid "Product Old Price"
+msgstr ""
+
+#: elementor/widgets/product.php:1583
+msgid "Product Buttons"
+msgstr ""
+
+#: elementor/widgets/product.php:1613 elementor/widgets/product.php:2556
+msgid "Total Sales Count"
+msgstr ""
+
+#: elementor/widgets/product.php:1741 elementor/widgets/product.php:1960
+#: elementor/widgets/product.php:2164
+msgid "Buttons Inner Content"
+msgstr ""
+
+#: elementor/widgets/product.php:1781 elementor/widgets/product.php:1999
+#: elementor/widgets/product.php:2203
+msgid "Button Icons & Labels"
+msgstr ""
+
+#: elementor/widgets/product.php:1820 elementor/widgets/product.php:2038
+#: elementor/widgets/product.php:2242
+msgid "Vertical Buttons"
+msgstr ""
+
+#: elementor/widgets/product.php:1913 elementor/widgets/product.php:2116
+#: elementor/widgets/product.php:2320
+msgid "Filtering"
+msgstr ""
+
+#: elementor/widgets/product.php:2487
+msgid "Stock-Out"
+msgstr ""
+
+#: elementor/widgets/product.php:2518
+msgid "Divider Color"
+msgstr ""
+
+#: elementor/widgets/product.php:2570
+msgid "Percent Background Color"
+msgstr ""
+
+#: elementor/widgets/product.php:2584
+msgid "Percent Active Color"
+msgstr ""
+
+#: elementor/widgets/product_brand.php:25
+msgid "Molla Product Brands"
+msgstr ""
+
+#: elementor/widgets/product_brand.php:49
+msgid "Brands Selector"
+msgstr ""
+
+#: elementor/widgets/product_brand.php:56
+msgid "Select Brands"
+msgstr ""
+
+#: elementor/widgets/product_brand.php:68
+msgid "Hide Empty"
+msgstr ""
+
+#: elementor/widgets/product_brand.php:76
+msgid "Brand Count"
+msgstr ""
+
+#: elementor/widgets/product_brand.php:84
+msgid "0 value will show all brands."
+msgstr ""
+
+#: elementor/widgets/product_brand.php:111
+msgid "Order Way"
+msgstr ""
+
+#: elementor/widgets/product_category.php:29
+msgid "Molla Product Categories"
+msgstr ""
+
+#: elementor/widgets/product_category.php:203
+msgid "Hide empty categories?"
+msgstr ""
+
+#: elementor/widgets/product_category.php:248
+msgid "Input height of your grid-container."
+msgstr ""
+
+#: elementor/widgets/product_category.php:711
+msgid "Show subcategories"
+msgstr ""
+
+#: elementor/widgets/product_category.php:718
+msgid "Subcategories Count"
+msgstr ""
+
+#: elementor/widgets/product_category.php:808
+msgid "Hide Link"
+msgstr ""
+
+#: elementor/widgets/product_category.php:1012
+msgid "Category Content"
+msgstr ""
+
+#: elementor/widgets/product_category.php:1048
+msgid "Category Name"
+msgstr ""
+
+#: elementor/widgets/product_category.php:1115
+#: elementor/widgets/product_category.php:1147
+msgid "Category Count"
+msgstr ""
+
+#: elementor/widgets/product_category.php:1160
+msgid "Subcategory"
+msgstr ""
+
+#: elementor/widgets/product_category.php:1263
+msgid "Shop Link"
+msgstr ""
+
+#: elementor/widgets/team_member.php:23
+msgid "Molla Team Member"
+msgstr ""
+
+#: elementor/widgets/team_member.php:43
+msgid "Member Content"
+msgstr ""
+
+#: elementor/widgets/team_member.php:55
+msgid "Frame"
+msgstr ""
+
+#: elementor/widgets/team_member.php:63 elementor/widgets/testimonial.php:310
+msgid "Avatar"
+msgstr ""
+
+#: elementor/widgets/team_member.php:89 elementor/widgets/testimonial.php:71
+#: elementor/widgets/testimonial.php:581 elementor/widgets/testimonial.php:601
+msgid "Job"
+msgstr ""
+
+#: elementor/widgets/team_member.php:107 widgets/follow_us.php:139
+msgid "Facebook"
+msgstr ""
+
+#: elementor/widgets/team_member.php:119
+msgid "LinkedIn"
+msgstr ""
+
+#: elementor/widgets/team_member.php:131 widgets/follow_us.php:145
+msgid "Twitter"
+msgstr ""
+
+#: elementor/widgets/team_member.php:143 widgets/follow_us.php:169
+msgid "Instagram"
+msgstr ""
+
+#: elementor/widgets/team_member.php:167 widgets/follow_us.php:157
+msgid "Pinterest"
+msgstr ""
+
+#: elementor/widgets/team_member.php:179 widgets/follow_us.php:205
+msgid "Tumblr"
+msgstr ""
+
+#: elementor/widgets/team_member.php:191
+msgid "WhatsApp"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:28
+msgid "Molla Testimonial"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:55
+msgid "Testimonial"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:92
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. "
+"Pellentesque aliquet nibh nec urna."
+msgstr ""
+
+#: elementor/widgets/testimonial.php:99
+msgid "Maximum Content Line"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:111
+msgid "Choose Avatar"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:121
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:149
+msgid "Show Numeric Rating"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:157
+msgid "Star Icon"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:170
+msgid "Star Style"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:206
+msgid "Layout & Position"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:213
+msgid "Avatar Position"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:217
+msgid "Aside"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:220
+msgid "Aside Commenter"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:221
+msgid "Top Commenter"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:229
+msgid "Commenter Position"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:233 elementor/widgets/testimonial.php:246
+msgid "Before Comment"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:234 elementor/widgets/testimonial.php:247
+msgid "After Comment"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:242
+msgid "Rating Position"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:635
+msgid "Numeric Rating"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:679
+msgid "Star Icons"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:703
+msgid "Star Spacing"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:725
+msgid "Blank Color"
+msgstr ""
+
+#: functions/helper.php:300
+msgid "Grid Masonry"
+msgstr ""
+
+#: functions/helper.php:305
+msgid "Grid 1"
+msgstr ""
+
+#: functions/helper.php:310
+msgid "Grid 2"
+msgstr ""
+
+#: functions/helper.php:315
+msgid "Grid 3"
+msgstr ""
+
+#: functions/helper.php:320
+msgid "Grid 4"
+msgstr ""
+
+#: functions/helper.php:325
+msgid "Grid 5"
+msgstr ""
+
+#: functions/helper.php:330
+msgid "Grid 6"
+msgstr ""
+
+#: functions/helper.php:335
+msgid "Grid 7"
+msgstr ""
+
+#: functions/helper.php:340
+msgid "Grid 8"
+msgstr ""
+
+#: meta_boxes/init.php:36
+msgid "Clear"
+msgstr ""
+
+#: meta_boxes/init.php:37
+msgid "Clear color"
+msgstr ""
+
+#: meta_boxes/init.php:39
+msgid "Select default color"
+msgstr ""
+
+#: meta_boxes/init.php:40
+msgid "Select Color"
+msgstr ""
+
+#: meta_boxes/init.php:41
+msgid "Color value"
+msgstr ""
+
+#: meta_boxes/locations/category.php:13 meta_boxes/locations/category.php:107
+msgid "Category Icon Class"
+msgstr ""
+
+#: meta_boxes/locations/category.php:31 meta_boxes/locations/category.php:124
+#: meta_boxes/locations/post.php:205
+msgid "Header Width"
+msgstr ""
+
+#: meta_boxes/locations/category.php:40 meta_boxes/locations/category.php:134
+msgid "Page Content Width"
+msgstr ""
+
+#: meta_boxes/locations/category.php:50 meta_boxes/locations/category.php:145
+#: meta_boxes/locations/post.php:320
+msgid "Footer Width"
+msgstr ""
+
+#: meta_boxes/locations/category.php:61 meta_boxes/locations/category.php:155
+msgid "Sidebar Option"
+msgstr ""
+
+#: meta_boxes/locations/category.php:64 meta_boxes/locations/category.php:159
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: meta_boxes/locations/category.php:65 meta_boxes/locations/category.php:160
+msgid "Toggle Sidebar"
+msgstr ""
+
+#: meta_boxes/locations/category.php:70 meta_boxes/locations/category.php:165
+msgid "Sidebar Position"
+msgstr ""
+
+#: meta_boxes/locations/category.php:81 meta_boxes/locations/category.php:176
+#: meta_boxes/locations/post.php:117
+msgid "Content Top Block"
+msgstr ""
+
+#: meta_boxes/locations/category.php:85 meta_boxes/locations/category.php:182
+#: meta_boxes/locations/post.php:123
+msgid "Content Inner Top Block"
+msgstr ""
+
+#: meta_boxes/locations/category.php:89 meta_boxes/locations/category.php:188
+#: meta_boxes/locations/post.php:129
+msgid "Content Inner Bottom Block"
+msgstr ""
+
+#: meta_boxes/locations/category.php:93 meta_boxes/locations/category.php:194
+#: meta_boxes/locations/post.php:135
+msgid "Content Bottom Block"
+msgstr ""
+
+#: meta_boxes/locations/category.php:113
+msgid "Product Columns"
+msgstr ""
+
+#: meta_boxes/locations/post.php:14
+msgid "Page Title"
+msgstr ""
+
+#: meta_boxes/locations/post.php:20
+msgid "Page SubTitle"
+msgstr ""
+
+#: meta_boxes/locations/post.php:26
+msgid "Show Page Header"
+msgstr ""
+
+#: meta_boxes/locations/post.php:29 meta_boxes/locations/post.php:41
+#: meta_boxes/locations/post.php:59 meta_boxes/locations/post.php:72
+#: meta_boxes/locations/post.php:84 meta_boxes/locations/post.php:97
+#: meta_boxes/locations/post.php:109 meta_boxes/locations/post.php:172
+#: meta_boxes/locations/post.php:198 meta_boxes/locations/post.php:259
+#: meta_boxes/locations/post.php:290 meta_boxes/locations/post.php:301
+#: meta_boxes/locations/post.php:323 meta_boxes/locations/product.php:17
+#: meta_boxes/locations/product.php:33 meta_boxes/locations/product.php:44
+#: meta_boxes/locations/product.php:55 meta_boxes/locations/product.php:66
+#: meta_boxes/locations/product.php:115
+msgid "-- Theme Option --"
+msgstr ""
+
+#: meta_boxes/locations/post.php:37
+msgid "Page Header Type"
+msgstr ""
+
+#: meta_boxes/locations/post.php:62
+msgid "Breadcrumb"
+msgstr ""
+
+#: meta_boxes/locations/post.php:68
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: meta_boxes/locations/post.php:80
+msgid "Breadcrumb Width"
+msgstr ""
+
+#: meta_boxes/locations/post.php:85 meta_boxes/locations/post.php:287
+msgid "Page Width"
+msgstr ""
+
+#: meta_boxes/locations/post.php:93
+msgid "Show Breadcrumb Divider"
+msgstr ""
+
+#: meta_boxes/locations/post.php:105
+msgid "Breadcrumb Divider Width"
+msgstr ""
+
+#: meta_boxes/locations/post.php:111
+msgid "Full Width"
+msgstr ""
+
+#: meta_boxes/locations/post.php:157
+msgid "Select Layout Mode"
+msgstr ""
+
+#: meta_boxes/locations/post.php:177
+msgid "Enable Header"
+msgstr ""
+
+#: meta_boxes/locations/post.php:187
+msgid "Header Layout Type"
+msgstr ""
+
+#: meta_boxes/locations/post.php:194
+msgid "Header Skin"
+msgstr ""
+
+#: meta_boxes/locations/post.php:216
+msgid "Position Fixed Header"
+msgstr ""
+
+#: meta_boxes/locations/post.php:220
+msgid "Fixed"
+msgstr ""
+
+#: meta_boxes/locations/post.php:221
+msgid "Not Fixed"
+msgstr ""
+
+#: meta_boxes/locations/post.php:227
+msgid "Header"
+msgstr ""
+
+#: meta_boxes/locations/post.php:234 meta_boxes/locations/post.php:266
+msgid "Header Top"
+msgstr ""
+
+#: meta_boxes/locations/post.php:241 meta_boxes/locations/post.php:273
+msgid "Header Main"
+msgstr ""
+
+#: meta_boxes/locations/post.php:248 meta_boxes/locations/post.php:280
+msgid "Header Bottom"
+msgstr ""
+
+#: meta_boxes/locations/post.php:255
+msgid "Sticky Header"
+msgstr ""
+
+#: meta_boxes/locations/post.php:298
+msgid "Sidebar"
+msgstr ""
+
+#: meta_boxes/locations/post.php:302
+msgid "No Sidebar"
+msgstr ""
+
+#: meta_boxes/locations/post.php:303
+msgid "Left Sidebar"
+msgstr ""
+
+#: meta_boxes/locations/post.php:304
+msgid "Right Sidebar"
+msgstr ""
+
+#: meta_boxes/locations/post.php:310
+msgid "Enable Footer"
+msgstr ""
+
+#: meta_boxes/locations/post.php:349
+msgid "Featured Images"
+msgstr ""
+
+#: meta_boxes/locations/post.php:355
+msgid "Video & Audio Embed Code or Content"
+msgstr ""
+
+#: meta_boxes/locations/post.php:356
+msgid "Input embed code or use shortcodes"
+msgstr ""
+
+#: meta_boxes/locations/post.php:375
+msgid "Page Layout Mode"
+msgstr ""
+
+#: meta_boxes/locations/post.php:380
+msgid "Page Layout"
+msgstr ""
+
+#: meta_boxes/locations/post.php:385 meta_boxes/locations/post.php:390
+msgid "Page Content"
+msgstr ""
+
+#: meta_boxes/locations/post.php:395
+msgid "Custom CSS / JS"
+msgstr ""
+
+#: meta_boxes/locations/product.php:14
+msgid "Single Product Layout"
+msgstr ""
+
+#: meta_boxes/locations/product.php:19
+msgid "Gallery"
+msgstr ""
+
+#: meta_boxes/locations/product.php:20
+msgid "Extended"
+msgstr ""
+
+#: meta_boxes/locations/product.php:21
+msgid "Sticky Info"
+msgstr ""
+
+#: meta_boxes/locations/product.php:22
+msgid "Boxed With Sidebar"
+msgstr ""
+
+#: meta_boxes/locations/product.php:23
+msgid "Fullwidth With Sidebar"
+msgstr ""
+
+#: meta_boxes/locations/product.php:24
+msgid "Masonry Sticky Info"
+msgstr ""
+
+#: meta_boxes/locations/product.php:30
+msgid "Product Thumbnails"
+msgstr ""
+
+#: meta_boxes/locations/product.php:52
+msgid "Product Data Type"
+msgstr ""
+
+#: meta_boxes/locations/product.php:63
+msgid "Product Sale-Countdown Type"
+msgstr ""
+
+#: meta_boxes/locations/product.php:76
+msgid "Tab Title"
+msgstr ""
+
+#: meta_boxes/locations/product.php:82
+msgid "Tab Block Name"
+msgstr ""
+
+#: meta_boxes/locations/product.php:88
+msgid "Tab Title 1st"
+msgstr ""
+
+#: meta_boxes/locations/product.php:94
+msgid "Tab Content 1st"
+msgstr ""
+
+#: meta_boxes/locations/product.php:100
+msgid "Tab Title 2nd"
+msgstr ""
+
+#: meta_boxes/locations/product.php:106
+msgid "Tab Content 2nd"
+msgstr ""
+
+#: meta_boxes/locations/product.php:112
+msgid "Size Tab"
+msgstr ""
+
+#: meta_boxes/locations/product.php:116
+msgid "Tab Block"
+msgstr ""
+
+#: meta_boxes/locations/product.php:117
+msgid "Tab 1st"
+msgstr ""
+
+#: meta_boxes/locations/product.php:118
+msgid "Tab 2nd"
+msgstr ""
+
+#: meta_boxes/locations/product.php:125
+msgid "Product Options"
+msgstr ""
+
+#: meta_boxes/locations/product.php:130
+msgid "Tabs"
+msgstr ""
+
+#: meta_boxes/locations/product_attr.php:11
+msgid "Pick"
+msgstr ""
+
+#: meta_boxes/locations/product_attr.php:21
+msgid "Select terms"
+msgstr ""
+
+#: meta_boxes/locations/product_attr.php:37
+msgid "Select all"
+msgstr ""
+
+#: meta_boxes/locations/product_attr.php:38
+msgid "Select none"
+msgstr ""
+
+#: meta_boxes/locations/product_attr.php:39
+msgid "Add new"
+msgstr ""
+
+#: post-type/molla-post-types.php:18
+msgid "Blocks"
+msgstr ""
+
+#: post-type/molla-post-types.php:19
+msgid "Headers"
+msgstr ""
+
+#: post-type/molla-post-types.php:20
+msgid "Footers"
+msgstr ""
+
+#: post-type/molla-post-types.php:21
+msgid "Sidebars"
+msgstr ""
+
+#: post-type/molla-post-types.php:22
+msgid "Popups"
+msgstr ""
+
+#: post-type/molla-post-types.php:23
+msgid "Single Product Layouts"
+msgstr ""
+
+#: post-type/molla-post-types.php:88
+msgid "Page Layouts"
+msgstr ""
+
+#: templates/elementor/custom-header/molla_cart.php:68
+msgid "Shopping Cart"
+msgstr ""
+
+#: templates/elementor/custom-header/molla_cart.php:69
+msgid "Close"
+msgstr ""
+
+#: templates/elementor/custom-header/molla_cart.php:76
+msgid "Woocommerce is not installed."
+msgstr ""
+
+#: templates/elementor/custom-product/image.php:50
+msgid "Awaiting product image"
+msgstr ""
+
+#: templates/elementor/custom-product/linked_product.php:158
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: templates/elementor/custom-product/linked_product.php:163
+msgid "Related products"
+msgstr ""
+
+#: templates/elementor/molla_product.php:320
+msgid "View more products"
+msgstr ""
+
+#: widgets/block.php:16
+msgid "Show block."
+msgstr ""
+
+#: widgets/block.php:21
+msgid "Molla - Block"
+msgstr ""
+
+#: widgets/block.php:66
+msgid "Block ID or Slug"
+msgstr ""
+
+#: widgets/follow_us.php:15
+msgid "Add Social Links."
+msgstr ""
+
+#: widgets/follow_us.php:20
+msgid "Molla - Follow Us"
+msgstr ""
+
+#: widgets/follow_us.php:94
+msgid "Follow Us"
+msgstr ""
+
+#: widgets/follow_us.php:129
+msgid "Add rel=\"nofollow\" to links"
+msgstr ""
+
+#: widgets/follow_us.php:133 widgets/related_products.php:161
+msgid "Before Content"
+msgstr ""
+
+#: widgets/follow_us.php:151
+msgid "Rss"
+msgstr ""
+
+#: widgets/follow_us.php:175
+msgid "Skype"
+msgstr ""
+
+#: widgets/follow_us.php:181
+msgid "Linkedin"
+msgstr ""
+
+#: widgets/follow_us.php:187
+msgid "Googleplus"
+msgstr ""
+
+#: widgets/follow_us.php:193
+msgid "Vk"
+msgstr ""
+
+#: widgets/follow_us.php:199
+msgid "Xing"
+msgstr ""
+
+#: widgets/follow_us.php:211
+msgid "Reddit"
+msgstr ""
+
+#: widgets/follow_us.php:223
+msgid "Telegram"
+msgstr ""
+
+#: widgets/follow_us.php:229
+msgid "Yelp"
+msgstr ""
+
+#: widgets/follow_us.php:235
+msgid "Flickr"
+msgstr ""
+
+#: widgets/follow_us.php:241
+msgid "Whatsapp"
+msgstr ""
+
+#: widgets/follow_us.php:247 widgets/related_products.php:167
+msgid "After Content"
+msgstr ""
+
+#: widgets/follow_us.php:256
+msgid "Colored"
+msgstr ""
+
+#: widgets/follow_us.php:258
+msgid "Circle Colored"
+msgstr ""
+
+#: widgets/post.php:16
+msgid "Display posts ordering by recent or popularity etc."
+msgstr ""
+
+#: widgets/post.php:21
+msgid "Molla - Posts"
+msgstr ""
+
+#: widgets/post.php:150
+msgid "Popular Posts"
+msgstr ""
+
+#: widgets/post.php:171 widgets/related_products.php:149
+msgid "Number of posts"
+msgstr ""
+
+#: widgets/post.php:177 widgets/related_products.php:155
+msgid "Count per slide"
+msgstr ""
+
+#: widgets/post.php:201
+msgid "Category IDs"
+msgstr ""
+
+#: widgets/post.php:207
+msgid "Show Featured Image"
+msgstr ""
+
+#: widgets/post.php:211
+msgid "Show Author"
+msgstr ""
+
+#: widgets/post.php:215
+msgid "Show Date"
+msgstr ""
+
+#: widgets/post.php:219
+msgid "Show Comment Count"
+msgstr ""
+
+#: widgets/price_filter.php:17
+msgid "Display list of price to filter products."
+msgstr ""
+
+#: widgets/price_filter.php:22
+msgid "Molla - Price Filter"
+msgstr ""
+
+#: widgets/price_filter.php:81
+#, php-format
+msgid "Under %s"
+msgstr ""
+
+#: widgets/price_filter.php:83
+#, php-format
+msgid "%s &amp; Up"
+msgstr ""
+
+#: widgets/price_filter.php:125
+msgid "Price Range"
+msgstr ""
+
+#: widgets/price_filter.php:127
+msgid "Example: 0-10, 10-100, 100-200, 200-500"
+msgstr ""
+
+#: widgets/price_filter.php:132
+msgid "Price Pattern"
+msgstr ""
+
+#: widgets/price_filter.php:134
+msgid "Example: $from to $to"
+msgstr ""
+
+#: widgets/product_brands.php:14
+msgid "A list or dropdown of product brands."
+msgstr ""
+
+#: widgets/product_brands.php:16
+msgid "Molla - Product Brands"
+msgstr ""
+
+#: widgets/product_brands.php:20
+msgid "Product brands"
+msgstr ""
+
+#: widgets/product_brands.php:28
+msgid "Brand order"
+msgstr ""
+
+#: widgets/product_brands.php:35
+msgid "Show product counts"
+msgstr ""
+
+#: widgets/product_brands.php:40
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/product_brands.php:45
+msgid "Hide empty brands"
+msgstr ""
+
+#: widgets/product_brands.php:50
+msgid "Maximum depth"
+msgstr ""
+
+#: widgets/product_brands.php:121
+msgid "No product brands exist."
+msgstr ""
+
+#: widgets/product_ordering.php:16
+msgid "Product Ordering."
+msgstr ""
+
+#: widgets/product_ordering.php:21
+msgid "Molla - Product Ordering"
+msgstr ""
+
+#: widgets/related_products.php:16
+msgid "Display related products."
+msgstr ""
+
+#: widgets/related_products.php:21
+msgid "Molla - Related Products"
+msgstr ""
+
+#: widgets/wp_nav_menu.php:13
+msgid "Add a navigation menu to page."
+msgstr ""
+
+#: widgets/wp_nav_menu.php:16
+msgid "Molla - Navigation Menu"
+msgstr ""
+
+#: widgets/wp_nav_menu.php:120
+msgid "No menus have been created yet"
+msgstr ""
+
+#: widgets/wp_nav_menu.php:120
+msgid "Create some"
+msgstr ""
+
+#: widgets/wp_nav_menu.php:125
+msgid "Title:"
+msgstr ""
+
+#: widgets/wp_nav_menu.php:129
+msgid "Select Menu:"
+msgstr ""
+
+#: widgets/wp_nav_menu.php:131 widgets/wp_nav_menu.php:142
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: widgets/wp_nav_menu.php:140
+msgid "Select Menu Skin:"
+msgstr ""
+
+#: widgets/wp_nav_menu.php:155
+msgid "Show as vertical menu"
+msgstr ""
+
+#: widgets/wp_nav_menu.php:159
+msgid "Edit Menu"
+msgstr ""

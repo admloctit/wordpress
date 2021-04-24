@@ -1,0 +1,45 @@
+.vcv-ui-form-buttons-group .vcv-ui-form-button[title*='Grid'] {
+    height: 120px;
+    border-bottom: 1px solid #d0d0d0;
+    .masonry-grid:before {
+        content: '';
+        display: block;
+        width: 100px;
+        height: 100px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .cg-grid:before {
+        background-image: url('../images/grid-layout/grid-masonry.jpg');
+    }
+    .cg-1:before {
+        background-image: url('../images/grid-layout/grid-1.jpg');
+    }
+    .cg-2:before {
+        background-image: url('../images/grid-layout/grid-2.jpg');
+    }
+    .cg-3:before {
+        background-image: url('../images/grid-layout/grid-3.jpg');
+    }
+    .cg-4:before {
+        background-image: url('../images/grid-layout/grid-4.jpg');
+    }
+    .cg-5:before {
+        background-image: url('../images/grid-layout/grid-5.jpg');
+    }
+    .cg-6:before {
+        background-image: url('../images/grid-layout/grid-6.jpg');
+    }
+    .cg-7:before {
+        background-image: url('../images/grid-layout/grid-7.jpg');
+    }
+    .cg-8:before {
+        background-image: url('../images/grid-layout/grid-8.jpg');
+    }
+}
+.vcv-ui-form-buttons-group .vcv-ui-form-button[title='Normal'],
+.vcv-ui-form-buttons-group .vcv-ui-form-button[title='Hover'],
+.vcv-ui-form-buttons-group .vcv-ui-form-button[title='Active'] {
+    min-width: 100px;
+}
